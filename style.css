@@ -163,3 +163,19 @@ main {
 .redBorder {
   border: red solid 2px;
 }
+
+/* Desktop Styles */
+@media (min-width: 1024px) {
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1023px) {
+}
+
+/* Mobile Styles */
+@media (max-width: 767px) {
+  main{
+    padding: 2% 10%;
+  }
+}
+
