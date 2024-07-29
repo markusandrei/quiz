@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
       console.error("Error loading the JSON file:", error);
 
       const errorMsg = document.createElement("p");
-      errorMsg.textContent = ("Error loading the JSON file:", error);
+      errorMsg.textContent = "Error loading the JSON file: " + error;
       errorMsg.className = "fontMedium errorMessage";
       cardElement.appendChild(errorMsg);
 
@@ -129,9 +129,9 @@ function displayQuestion() {
     let index;
     do {
       index = getRandomInt(0, questions.length - 1);
-    } while (usedQuestions.includes(index));
+    } while (usedQuestions.includes(questions[index].id));
 
-    currentQuestion = questions[index].id;
+    currentQuestion = index;
     const question = questions[index].question;
     questionElement.textContent = question;
   }
@@ -153,7 +153,7 @@ function displayOptions() {
 
   options = shuffleArray(options);
 
-  options.forEach((option, i) => {
+  options.forEach((option) => {
     const optionElement = document.createElement("p");
     optionElement.textContent = option;
 
