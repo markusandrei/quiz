@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "id": 1,
+    "category": "Geography",
+    "question": "Which river flows through Egypt?",
+    "answer": "Nile"
+  },
+  {
+    "id": 2,
+    "category": "Geography",
+    "question": "What country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+  },
+  {
+    "id": 3,
+    "category": "Geography",
+    "question": "Which mountain range spans across several countries in South America?",
+    "answer": "Andes"
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "question": "What is the largest desert in the world?",
+    "answer": "Sahara"
+  },
+  {
+    "id": 5,
+    "category": "Geography",
+    "question": "Which European city is famous for its canals and gondolas?",
+    "answer": "Venice"
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "question": "What is the official language of Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "question": "Which African country is home to the Great Pyramid of Giza?",
+    "answer": "Egypt"
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "question": "What strait separates Europe from Asia?",
+    "answer": "Bosporus"
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "question": "Which island nation is located in the Indian Ocean and known for its lemurs?",
+    "answer": "Madagascar"
+  }
+]

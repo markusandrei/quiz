@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "category": "Literature",
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 1,
+    "category": "Literature",
+    "question": "Which novel features the character Holden Caulfield?",
+    "answer": "'The Catcher in the Rye'"
+  },
+  {
+    "id": 2,
+    "category": "Literature",
+    "question": "What is the title of Jane Austen's novel about love and social class?",
+    "answer": "'Pride and Prejudice'"
+  },
+  {
+    "id": 3,
+    "category": "Literature",
+    "question": "Which Shakespearean play includes the famous line 'To be, or not to be'?",
+    "answer": "'Hamlet'"
+  },
+  {
+    "id": 4,
+    "category": "Literature",
+    "question": "What dystopian novel by George Orwell warns of a totalitarian regime?",
+    "answer": "'1984'"
+  },
+  {
+    "id": 5,
+    "category": "Literature",
+    "question": "Who penned the epic poem 'Paradise Lost'?",
+    "answer": "John Milton"
+  },
+  {
+    "id": 6,
+    "category": "Literature",
+    "question": "Which author created the detective Sherlock Holmes?",
+    "answer": "Arthur Conan Doyle"
+  },
+  {
+    "id": 7,
+    "category": "Literature",
+    "question": "What classic novel tells the story of a shipwrecked sailor on a deserted island?",
+    "answer": "'Robinson Crusoe'"
+  },
+  {
+    "id": 8,
+    "category": "Literature",
+    "question": "In which book does the character Atticus Finch defend Tom Robinson?",
+    "answer": "'To Kill a Mockingbird'"
+  },
+  {
+    "id": 9,
+    "category": "Literature",
+    "question": "What fantasy series by J.K. Rowling features a young wizard named Harry Potter?",
+    "answer": "'Harry Potter'"
+  }
+]

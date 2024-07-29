@@ -1,0 +1,5 @@
+{
+  "Geography": "/questions/geography.json",
+  "Astronomy": "/questions/astronomy.json",
+  "Literature": "/questions/literature.json"
+}

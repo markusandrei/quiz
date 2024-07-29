@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "category": "Astronomy",
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 1,
+    "category": "Astronomy",
+    "question": "Which planet has a prominent ring system?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 2,
+    "category": "Astronomy",
+    "question": "What is the closest star to Earth (other than the Sun)?",
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": 3,
+    "category": "Astronomy",
+    "question": "Which galaxy is part of the Local Group and contains our solar system?",
+    "answer": "Milky Way"
+  },
+  {
+    "id": 4,
+    "category": "Astronomy",
+    "question": "What is the name of the red planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": 5,
+    "category": "Astronomy",
+    "question": "Which comet is associated with Halley's Comet?",
+    "answer": "Comet Halley"
+  },
+  {
+    "id": 6,
+    "category": "Astronomy",
+    "question": "What is the process by which a star converts hydrogen into helium?",
+    "answer": "Nuclear fusion"
+  },
+  {
+    "id": 7,
+    "category": "Astronomy",
+    "question": "Which moon of Jupiter is known for its geysers?",
+    "answer": "Enceladus"
+  },
+  {
+    "id": 8,
+    "category": "Astronomy",
+    "question": "What is the study of celestial objects and phenomena beyond Earth's atmosphere?",
+    "answer": "Astronomy"
+  },
+  {
+    "id": 9,
+    "category": "Astronomy",
+    "question": "Which space telescope has provided stunning images of distant galaxies and nebulae?",
+    "answer": "Hubble Space Telescope"
+  }
+]
