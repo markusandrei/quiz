@@ -105,8 +105,6 @@ function loadQuestions() {
         .then((response) => response.json())
         .then((questionData) => {
           questions = questionData;
-
-          console.log("Questions fetched:", questions);
         })
         .catch((error) =>
           console.error("Error loading the questions JSON file:", error)
@@ -134,6 +132,7 @@ function displayInfo() {
   categoryElement.id = "category-info";
   updateCategoryText(categoryElement);
   infoContainer.appendChild(categoryElement);
+  infoContainer.classList.remove("display-none");
 
   const itemElement = document.createElement("p");
   itemElement.textContent =
