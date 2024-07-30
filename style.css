@@ -101,10 +101,12 @@ main {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  gap: 100px;
 }
 
 .card {
-  min-width: 100%;
+  width: fit-content;
+  max-width: 100%;
   padding: 5%;
   gap: 50px;
 
