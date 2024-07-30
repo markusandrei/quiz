@@ -16,7 +16,7 @@ let questionElement;
 let optionsContainer;
 
 window.addEventListener("resize", () => {
-  const categoryElement = document.querySelector(".category-info");
+  const categoryElement = document.getElementById("category-info");
   if (categoryElement) {
     updateCategoryText(categoryElement, selectedCategory);
   }
@@ -24,10 +24,8 @@ window.addEventListener("resize", () => {
 
 function updateCategoryText(element) {
   if (window.innerWidth <= 800) {
-    // Mobile view
     element.innerHTML = `<span class="fontColorAccent">${selectedCategory}</span>`;
   } else {
-    // Desktop and tablet view
     element.innerHTML = `Category: <span class="fontColorAccent">${selectedCategory}</span>`;
   }
 }
@@ -67,9 +65,9 @@ document.addEventListener("DOMContentLoaded", () => {
       showElement(cardElement);
     });
 
-  const categoryElement = document.querySelector(".category-info");
+  const categoryElement = document.getElementById("category-info");
   if (categoryElement) {
-    updateCategoryText(categoryElement, selectedCategory);
+    updateCategoryText(categoryElement);
   }
 });
 
@@ -130,7 +128,8 @@ function startQuiz() {
 
 function displayInfo() {
   const categoryElement = document.createElement("p");
-  categoryElement.classList.add("fontMedium", "fontBold", "category-info");
+  categoryElement.classList.add("fontMedium", "fontBold");
+  categoryElement.id = "category-info";
   updateCategoryText(categoryElement);
   infoContainer.appendChild(categoryElement);
 
