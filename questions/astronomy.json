@@ -178,5 +178,125 @@
     "category": "Astronomy",
     "question": "What is the term for the force that keeps planets in orbit around the Sun?",
     "answer": "Gravity"
+  },
+  {
+    "id": 30,
+    "category": "Astronomy",
+    "question": "What is the name of the largest moon of Jupiter?",
+    "answer": "Ganymede"
+  },
+  {
+    "id": 31,
+    "category": "Astronomy",
+    "question": "Which planet has the most moons?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 32,
+    "category": "Astronomy",
+    "question": "What is the term for the boundary around a black hole beyond which no light can escape?",
+    "answer": "Event horizon"
+  },
+  {
+    "id": 33,
+    "category": "Astronomy",
+    "question": "Which space probe was the first to reach interstellar space?",
+    "answer": "Voyager 1"
+  },
+  {
+    "id": 34,
+    "category": "Astronomy",
+    "question": "What is the term for a sudden explosion of energy on the Sun's surface?",
+    "answer": "Solar flare"
+  },
+  {
+    "id": 35,
+    "category": "Astronomy",
+    "question": "Which planet has the longest day of any planet in the solar system?",
+    "answer": "Venus"
+  },
+  {
+    "id": 36,
+    "category": "Astronomy",
+    "question": "What is the name of the first artificial satellite launched by humans?",
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": 37,
+    "category": "Astronomy",
+    "question": "Which planet is known for its Great Dark Spot?",
+    "answer": "Neptune"
+  },
+  {
+    "id": 38,
+    "category": "Astronomy",
+    "question": "What is the term for a massive star that has exploded at the end of its life cycle?",
+    "answer": "Supernova"
+  },
+  {
+    "id": 39,
+    "category": "Astronomy",
+    "question": "What is the name of the galaxy closest to the Milky Way?",
+    "answer": "Andromeda"
+  },
+  {
+    "id": 40,
+    "category": "Astronomy",
+    "question": "Which planet has a moon named Triton?",
+    "answer": "Neptune"
+  },
+  {
+    "id": 41,
+    "category": "Astronomy",
+    "question": "What is the term for a region of space where the gravitational pull is so strong that not even light can escape?",
+    "answer": "Black hole"
+  },
+  {
+    "id": 42,
+    "category": "Astronomy",
+    "question": "What is the term for the apparent path of the Sun across the sky over the course of a year?",
+    "answer": "Ecliptic"
+  },
+  {
+    "id": 43,
+    "category": "Astronomy",
+    "question": "Which planet is known as the Ice Giant due to its cold temperature and composition?",
+    "answer": "Neptune"
+  },
+  {
+    "id": 44,
+    "category": "Astronomy",
+    "question": "What is the name of the closest dwarf planet to the Sun?",
+    "answer": "Ceres"
+  },
+  {
+    "id": 45,
+    "category": "Astronomy",
+    "question": "What is the term for the study of the origin, evolution, and eventual fate of the universe?",
+    "answer": "Cosmology"
+  },
+  {
+    "id": 46,
+    "category": "Astronomy",
+    "question": "Which planet has a moon named Phobos?",
+    "answer": "Mars"
+  },
+  {
+    "id": 47,
+    "category": "Astronomy",
+    "question": "What is the term for a large, luminous ball of gas held together by gravity and undergoing nuclear fusion?",
+    "answer": "Star"
+  },
+  {
+    "id": 48,
+    "category": "Astronomy",
+    "question": "What is the term for the small, rocky bodies that orbit the Sun, mostly found between Mars and Jupiter?",
+    "answer": "Asteroids"
+  },
+  {
+    "id": 49,
+    "category": "Astronomy",
+    "question": "Which planet is known for its thick atmosphere and surface pressure that is 92 times that of Earth?",
+    "answer": "Venus"
   }
 ]
