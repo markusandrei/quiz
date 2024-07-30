@@ -105,6 +105,8 @@ function loadQuestions() {
         .then((response) => response.json())
         .then((questionData) => {
           questions = questionData;
+
+          console.log("Questions fetched:", questions);
         })
         .catch((error) =>
           console.error("Error loading the questions JSON file:", error)
