@@ -107,6 +107,7 @@ main {
 .card {
   width: fit-content;
   max-width: 100%;
+  min-width: 75%;
   padding: 5%;
   gap: 50px;
 
@@ -182,5 +183,6 @@ main {
 
   .card {
     padding: 10%;
+    min-width: 100%;
   }
 }
