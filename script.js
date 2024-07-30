@@ -128,7 +128,7 @@ function startQuiz() {
 
 function displayInfo() {
   const categoryElement = document.createElement("p");
-  categoryElement.classList.add("fontMedium", "fontBold");
+  categoryElement.classList.add("fontMedium", "fontBold", "no-wrap");
   categoryElement.id = "category-info";
   updateCategoryText(categoryElement);
   infoContainer.appendChild(categoryElement);
