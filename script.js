@@ -15,6 +15,23 @@ let quizContainer;
 let questionElement;
 let optionsContainer;
 
+window.addEventListener("resize", () => {
+  const categoryElement = document.querySelector(".category-info");
+  if (categoryElement) {
+    updateCategoryText(categoryElement, selectedCategory);
+  }
+});
+
+function updateCategoryText(element) {
+  if (window.innerWidth <= 800) {
+    // Mobile view
+    element.innerHTML = `<span class="fontColorAccent">${selectedCategory}</span>`;
+  } else {
+    // Desktop and tablet view
+    element.innerHTML = `Category: <span class="fontColorAccent">${selectedCategory}</span>`;
+  }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   // Caching DOM elements
   mainContainer = document.getElementById("main");
@@ -40,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
       console.error("Error loading the JSON file:", error);
 
       const errorMsg = document.createElement("p");
-      errorMsg.textContent = "Error loading the JSON file: " + error;
+      errorMsg.textContent = ("Error loading the JSON file:", error);
       errorMsg.className = "fontMedium errorMessage";
       cardElement.appendChild(errorMsg);
 
@@ -49,6 +66,11 @@ document.addEventListener("DOMContentLoaded", () => {
     .finally(() => {
       showElement(cardElement);
     });
+
+  const categoryElement = document.querySelector(".category-info");
+  if (categoryElement) {
+    updateCategoryText(categoryElement, selectedCategory);
+  }
 });
 
 function displayCategories() {
@@ -108,7 +130,8 @@ function startQuiz() {
 
 function displayInfo() {
   const categoryElement = document.createElement("p");
-  categoryElement.textContent = "Category: " + selectedCategory;
+  categoryElement.classList.add("fontMedium", "fontBold", "category-info");
+  updateCategoryText(categoryElement);
   infoContainer.appendChild(categoryElement);
 
   const itemElement = document.createElement("p");
@@ -129,9 +152,9 @@ function displayQuestion() {
     let index;
     do {
       index = getRandomInt(0, questions.length - 1);
-    } while (usedQuestions.includes(questions[index].id));
+    } while (usedQuestions.includes(index));
 
-    currentQuestion = index;
+    currentQuestion = questions[index].id;
     const question = questions[index].question;
     questionElement.textContent = question;
   }
@@ -153,7 +176,7 @@ function displayOptions() {
 
   options = shuffleArray(options);
 
-  options.forEach((option) => {
+  options.forEach((option, i) => {
     const optionElement = document.createElement("p");
     optionElement.textContent = option;
 
