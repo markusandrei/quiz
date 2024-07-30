@@ -99,9 +99,9 @@ main {
   min-width: 100%;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  gap: 100px;
+  gap: 10%;
 }
 
 .card {
@@ -168,6 +168,10 @@ main {
 
 .redBorder {
   border: red solid 2px;
+}
+
+.no-wrap {
+  text-wrap: nowrap;
 }
 
 /* Mobile Styles */
