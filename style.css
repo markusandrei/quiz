@@ -173,4 +173,8 @@ main {
   main {
     padding: 2% 10%;
   }
+
+  .card {
+    padding: 10%;
+  }
 }
