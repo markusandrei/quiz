@@ -58,5 +58,245 @@
     "category": "Literature",
     "question": "What fantasy series by J.K. Rowling features a young wizard named Harry Potter?",
     "answer": "'Harry Potter'"
+  },
+  {
+    "id": 10,
+    "category": "Literature",
+    "question": "Who wrote the play 'A Streetcar Named Desire'?",
+    "answer": "Tennessee Williams"
+  },
+  {
+    "id": 11,
+    "category": "Literature",
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "answer": "'Moby Dick'"
+  },
+  {
+    "id": 12,
+    "category": "Literature",
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 13,
+    "category": "Literature",
+    "question": "What is the name of the hobbit in J.R.R. Tolkien's 'The Lord of the Rings'?",
+    "answer": "Frodo Baggins"
+  },
+  {
+    "id": 14,
+    "category": "Literature",
+    "question": "Which Russian author wrote 'War and Peace'?",
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 15,
+    "category": "Literature",
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "id": 16,
+    "category": "Literature",
+    "question": "What is the title of the first Harry Potter book?",
+    "answer": "'Harry Potter and the Philosopher's Stone'"
+  },
+  {
+    "id": 17,
+    "category": "Literature",
+    "question": "Which American poet wrote 'The Road Not Taken'?",
+    "answer": "Robert Frost"
+  },
+  {
+    "id": 18,
+    "category": "Literature",
+    "question": "What is the name of the monster in Mary Shelley's 'Frankenstein'?",
+    "answer": "Frankenstein's monster"
+  },
+  {
+    "id": 19,
+    "category": "Literature",
+    "question": "Who is the author of 'The Chronicles of Narnia' series?",
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": 20,
+    "category": "Literature",
+    "question": "Which book features a young girl named Scout Finch?",
+    "answer": "'To Kill a Mockingbird'"
+  },
+  {
+    "id": 21,
+    "category": "Literature",
+    "question": "What novel is set in the fictional town of Macondo?",
+    "answer": "'One Hundred Years of Solitude'"
+  },
+  {
+    "id": 22,
+    "category": "Literature",
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "answer": "Arthur Miller"
+  },
+  {
+    "id": 23,
+    "category": "Literature",
+    "question": "Which Charles Dickens novel features the character Ebenezer Scrooge?",
+    "answer": "'A Christmas Carol'"
+  },
+  {
+    "id": 24,
+    "category": "Literature",
+    "question": "What is the name of the second book in the 'Hunger Games' series?",
+    "answer": "'Catching Fire'"
+  },
+  {
+    "id": 25,
+    "category": "Literature",
+    "question": "Who wrote 'Brave New World'?",
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": 26,
+    "category": "Literature",
+    "question": "Which novel features the character Elizabeth Bennet?",
+    "answer": "'Pride and Prejudice'"
+  },
+  {
+    "id": 27,
+    "category": "Literature",
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 28,
+    "category": "Literature",
+    "question": "What is the title of the final book in J.K. Rowling's 'Harry Potter' series?",
+    "answer": "'Harry Potter and the Deathly Hallows'"
+  },
+  {
+    "id": 29,
+    "category": "Literature",
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "answer": "John Steinbeck"
+  },
+  {
+    "id": 30,
+    "category": "Literature",
+    "question": "What is the title of the novel featuring the character Jay Gatsby?",
+    "answer": "'The Great Gatsby'"
+  },
+  {
+    "id": 31,
+    "category": "Literature",
+    "question": "Which author wrote 'Jane Eyre'?",
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "id": 32,
+    "category": "Literature",
+    "question": "What is the name of the novel by George Orwell featuring the character Winston Smith?",
+    "answer": "'1984'"
+  },
+  {
+    "id": 33,
+    "category": "Literature",
+    "question": "Who wrote 'The Odyssey'?",
+    "answer": "Homer"
+  },
+  {
+    "id": 34,
+    "category": "Literature",
+    "question": "Which novel is set on a deserted island and features the characters Ralph and Piggy?",
+    "answer": "'Lord of the Flies'"
+  },
+  {
+    "id": 35,
+    "category": "Literature",
+    "question": "Who is the author of 'Wuthering Heights'?",
+    "answer": "Emily Brontë"
+  },
+  {
+    "id": 36,
+    "category": "Literature",
+    "question": "What is the title of F. Scott Fitzgerald's novel set in the Roaring Twenties?",
+    "answer": "'The Great Gatsby'"
+  },
+  {
+    "id": 37,
+    "category": "Literature",
+    "question": "Which novel features the character Dorian Gray?",
+    "answer": "'The Picture of Dorian Gray'"
+  },
+  {
+    "id": 38,
+    "category": "Literature",
+    "question": "Who wrote 'Moby-Dick'?",
+    "answer": "Herman Melville"
+  },
+  {
+    "id": 39,
+    "category": "Literature",
+    "question": "Which author wrote 'The Bell Jar'?",
+    "answer": "Sylvia Plath"
+  },
+  {
+    "id": 40,
+    "category": "Literature",
+    "question": "What is the title of the novel by Harper Lee featuring the character Atticus Finch?",
+    "answer": "'To Kill a Mockingbird'"
+  },
+  {
+    "id": 41,
+    "category": "Literature",
+    "question": "Who is the author of 'The Scarlet Letter'?",
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "id": 42,
+    "category": "Literature",
+    "question": "Which novel by Aldous Huxley explores a dystopian future society?",
+    "answer": "'Brave New World'"
+  },
+  {
+    "id": 43,
+    "category": "Literature",
+    "question": "What is the name of the novel by George Orwell that critiques a totalitarian regime?",
+    "answer": "'1984'"
+  },
+  {
+    "id": 44,
+    "category": "Literature",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 45,
+    "category": "Literature",
+    "question": "What is the title of the first book in J.R.R. Tolkien's 'The Lord of the Rings' trilogy?",
+    "answer": "'The Fellowship of the Ring'"
+  },
+  {
+    "id": 46,
+    "category": "Literature",
+    "question": "Which novel by Mark Twain features the character Tom Sawyer?",
+    "answer": "'The Adventures of Tom Sawyer'"
+  },
+  {
+    "id": 47,
+    "category": "Literature",
+    "question": "Who is the author of 'Les Misérables'?",
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 48,
+    "category": "Literature",
+    "question": "What is the title of the dystopian novel by Ray Bradbury about book burning?",
+    "answer": "'Fahrenheit 451'"
+  },
+  {
+    "id": 49,
+    "category": "Literature",
+    "question": "Which play by Shakespeare features the characters Romeo and Juliet?",
+    "answer": "'Romeo and Juliet'"
   }
 ]
