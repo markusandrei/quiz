@@ -58,5 +58,125 @@
     "category": "Astronomy",
     "question": "Which space telescope has provided stunning images of distant galaxies and nebulae?",
     "answer": "Hubble Space Telescope"
+  },
+  {
+    "id": 10,
+    "category": "Astronomy",
+    "question": "What is the second largest planet in our solar system?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 11,
+    "category": "Astronomy",
+    "question": "Which planet is known as the Morning Star or Evening Star?",
+    "answer": "Venus"
+  },
+  {
+    "id": 12,
+    "category": "Astronomy",
+    "question": "What is the name of our galaxy?",
+    "answer": "Milky Way"
+  },
+  {
+    "id": 13,
+    "category": "Astronomy",
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "id": 14,
+    "category": "Astronomy",
+    "question": "Which planet has the Great Red Spot?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 15,
+    "category": "Astronomy",
+    "question": "What type of celestial object is the Sun?",
+    "answer": "Star"
+  },
+  {
+    "id": 16,
+    "category": "Astronomy",
+    "question": "Which dwarf planet is located in the asteroid belt?",
+    "answer": "Ceres"
+  },
+  {
+    "id": 17,
+    "category": "Astronomy",
+    "question": "Which planet is known for its extreme surface temperatures and thick atmosphere?",
+    "answer": "Venus"
+  },
+  {
+    "id": 18,
+    "category": "Astronomy",
+    "question": "What is the term for a star system with two stars orbiting each other?",
+    "answer": "Binary star"
+  },
+  {
+    "id": 19,
+    "category": "Astronomy",
+    "question": "Which planet is known for its tilted axis, causing extreme seasons?",
+    "answer": "Uranus"
+  },
+  {
+    "id": 20,
+    "category": "Astronomy",
+    "question": "What is the name of the largest moon of Saturn?",
+    "answer": "Titan"
+  },
+  {
+    "id": 21,
+    "category": "Astronomy",
+    "question": "Which planet is known as the Blue Planet?",
+    "answer": "Earth"
+  },
+  {
+    "id": 22,
+    "category": "Astronomy",
+    "question": "What is the term for the path an object takes as it moves around a star, planet, or moon?",
+    "answer": "Orbit"
+  },
+  {
+    "id": 23,
+    "category": "Astronomy",
+    "question": "Which planet has the largest volcano in the solar system?",
+    "answer": "Mars"
+  },
+  {
+    "id": 24,
+    "category": "Astronomy",
+    "question": "What is the name of the largest asteroid in the asteroid belt?",
+    "answer": "Ceres"
+  },
+  {
+    "id": 25,
+    "category": "Astronomy",
+    "question": "Which planet is known for its extensive system of rings?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 26,
+    "category": "Astronomy",
+    "question": "What is the term for a small, icy body that releases gas and dust as it orbits the Sun?",
+    "answer": "Comet"
+  },
+  {
+    "id": 27,
+    "category": "Astronomy",
+    "question": "Which planet has the shortest day of all the planets in the solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 28,
+    "category": "Astronomy",
+    "question": "Which planet is known for having a surface covered with iron oxide, giving it a reddish appearance?",
+    "answer": "Mars"
+  },
+  {
+    "id": 29,
+    "category": "Astronomy",
+    "question": "What is the term for the force that keeps planets in orbit around the Sun?",
+    "answer": "Gravity"
   }
 ]
