@@ -58,5 +58,245 @@
     "category": "Geography",
     "question": "Which island nation is located in the Indian Ocean and known for its lemurs?",
     "answer": "Madagascar"
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "question": "What is the smallest country in the world by land area?",
+    "answer": "Vatican City"
+  },
+  {
+    "id": 11,
+    "category": "Geography",
+    "question": "Which river is the longest in the world?",
+    "answer": "Nile"
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "id": 13,
+    "category": "Geography",
+    "question": "Which continent is known as the 'Frozen Continent'?",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "question": "Which country has the most natural lakes?",
+    "answer": "Canada"
+  },
+  {
+    "id": 15,
+    "category": "Geography",
+    "question": "What is the highest mountain in the world?",
+    "answer": "Mount Everest"
+  },
+  {
+    "id": 16,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "answer": "Finland"
+  },
+  {
+    "id": 17,
+    "category": "Geography",
+    "question": "What is the longest river in South America?",
+    "answer": "Amazon River"
+  },
+  {
+    "id": 18,
+    "category": "Geography",
+    "question": "Which European country is divided into cantons?",
+    "answer": "Switzerland"
+  },
+  {
+    "id": 19,
+    "category": "Geography",
+    "question": "What is the capital city of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "id": 20,
+    "category": "Geography",
+    "question": "Which desert covers much of northern Africa?",
+    "answer": "Sahara"
+  },
+  {
+    "id": 21,
+    "category": "Geography",
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
+    "id": 22,
+    "category": "Geography",
+    "question": "Which country has the largest population in the world?",
+    "answer": "China"
+  },
+  {
+    "id": 23,
+    "category": "Geography",
+    "question": "Which country is known for its fjords?",
+    "answer": "Norway"
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 25,
+    "category": "Geography",
+    "question": "Which country shares the longest border with the United States?",
+    "answer": "Canada"
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "question": "Which U.S. state is the largest by area?",
+    "answer": "Alaska"
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "question": "What is the capital city of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "id": 28,
+    "category": "Geography",
+    "question": "Which mountain range separates Europe and Asia?",
+    "answer": "Ural Mountains"
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "question": "What is the largest ocean in the world?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "question": "Which river flows through the city of London?",
+    "answer": "Thames"
+  },
+  {
+    "id": 31,
+    "category": "Geography",
+    "question": "What is the capital of Russia?",
+    "answer": "Moscow"
+  },
+  {
+    "id": 32,
+    "category": "Geography",
+    "question": "Which sea is located between Europe, Africa, and Asia?",
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": 33,
+    "category": "Geography",
+    "question": "What is the smallest continent by land area?",
+    "answer": "Australia"
+  },
+  {
+    "id": 34,
+    "category": "Geography",
+    "question": "Which country has the most islands?",
+    "answer": "Sweden"
+  },
+  {
+    "id": 35,
+    "category": "Geography",
+    "question": "What is the capital city of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "answer": "Florida"
+  },
+  {
+    "id": 37,
+    "category": "Geography",
+    "question": "Which river forms part of the border between the United States and Mexico?",
+    "answer": "Rio Grande"
+  },
+  {
+    "id": 38,
+    "category": "Geography",
+    "question": "What is the capital city of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "question": "Which country is the largest by land area?",
+    "answer": "Russia"
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "question": "What is the name of the sea located between Australia and New Zealand?",
+    "answer": "Tasman Sea"
+  },
+  {
+    "id": 41,
+    "category": "Geography",
+    "question": "Which African country is the largest by land area?",
+    "answer": "Algeria"
+  },
+  {
+    "id": 42,
+    "category": "Geography",
+    "question": "What is the capital city of Brazil?",
+    "answer": "Brasilia"
+  },
+  {
+    "id": 43,
+    "category": "Geography",
+    "question": "Which European country has the largest population?",
+    "answer": "Germany"
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "question": "Which U.S. state is known as the 'Empire State'?",
+    "answer": "New York"
+  },
+  {
+    "id": 45,
+    "category": "Geography",
+    "question": "Which desert is located in northern China and southern Mongolia?",
+    "answer": "Gobi Desert"
+  },
+  {
+    "id": 46,
+    "category": "Geography",
+    "question": "Which country is famous for the Great Wall?",
+    "answer": "China"
+  },
+  {
+    "id": 47,
+    "category": "Geography",
+    "question": "What is the capital city of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "id": 48,
+    "category": "Geography",
+    "question": "Which river is the main water source for the city of Cairo?",
+    "answer": "Nile"
+  },
+  {
+    "id": 49,
+    "category": "Geography",
+    "question": "Which continent is the Sahara Desert located on?",
+    "answer": "Africa"
   }
 ]
