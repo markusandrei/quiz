@@ -138,6 +138,7 @@ function displayInfo() {
   itemElement.textContent =
     usedQuestions.length + 1 + " of " + questions.length;
   itemElement.id = "itemCount";
+  itemElement.classList.add("no-wrap");
   infoContainer.appendChild(itemElement);
 }
 
