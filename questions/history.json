@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "id": 1,
+    "category": "History",
+    "question": "What year did the Titanic sink?",
+    "answer": "1912"
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "question": "Who was known as the 'Iron Lady'?",
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "question": "What ancient civilization built the pyramids?",
+    "answer": "Egyptians"
+  },
+  {
+    "id": 4,
+    "category": "History",
+    "question": "Who discovered America in 1492?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "id": 5,
+    "category": "History",
+    "question": "What war was fought between the North and South regions in the United States?",
+    "answer": "Civil War"
+  },
+  {
+    "id": 6,
+    "category": "History",
+    "question": "Who was the British Prime Minister during World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "question": "What year did the Berlin Wall fall?",
+    "answer": "1989"
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "question": "Who was the first man to walk on the moon?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": 9,
+    "category": "History",
+    "question": "What event started World War I?",
+    "answer": "Assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "id": 10,
+    "category": "History",
+    "question": "What was the name of the ship that brought the Pilgrims to America?",
+    "answer": "Mayflower"
+  },
+  {
+    "id": 11,
+    "category": "History",
+    "question": "Who wrote the Declaration of Independence?",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": 12,
+    "category": "History",
+    "question": "Which empire was known for its road system and aqueducts?",
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 13,
+    "category": "History",
+    "question": "Who was the first emperor of China?",
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "question": "What was the name of the first successful English colony in America?",
+    "answer": "Jamestown"
+  },
+  {
+    "id": 15,
+    "category": "History",
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "id": 16,
+    "category": "History",
+    "question": "What year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "question": "Who was the famous nurse during the Crimean War?",
+    "answer": "Florence Nightingale"
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "question": "What ancient city was buried by a volcanic eruption in AD 79?",
+    "answer": "Pompeii"
+  },
+  {
+    "id": 19,
+    "category": "History",
+    "question": "Who was the main author of the US Constitution?",
+    "answer": "James Madison"
+  },
+  {
+    "id": 20,
+    "category": "History",
+    "question": "What major event began on October 29, 1929?",
+    "answer": "The Great Depression"
+  },
+  {
+    "id": 21,
+    "category": "History",
+    "question": "What year did women in the United States gain the right to vote?",
+    "answer": "1920"
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "question": "Who was the leader of Nazi Germany?",
+    "answer": "Adolf Hitler"
+  },
+  {
+    "id": 23,
+    "category": "History",
+    "question": "What year did the French Revolution begin?",
+    "answer": "1789"
+  },
+  {
+    "id": 24,
+    "category": "History",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "question": "What was the name of the ship Charles Darwin sailed on?",
+    "answer": "HMS Beagle"
+  },
+  {
+    "id": 26,
+    "category": "History",
+    "question": "Who was the first Roman emperor?",
+    "answer": "Augustus"
+  },
+  {
+    "id": 27,
+    "category": "History",
+    "question": "What year did the United States land the first man on the moon?",
+    "answer": "1969"
+  },
+  {
+    "id": 28,
+    "category": "History",
+    "question": "What year did the Cold War end?",
+    "answer": "1991"
+  },
+  {
+    "id": 29,
+    "category": "History",
+    "question": "Who was the queen of ancient Egypt famous for her beauty?",
+    "answer": "Cleopatra"
+  },
+  {
+    "id": 30,
+    "category": "History",
+    "question": "What ancient civilization was known for its philosophers like Socrates and Plato?",
+    "answer": "Ancient Greece"
+  },
+  {
+    "id": 31,
+    "category": "History",
+    "question": "What year did the American Civil War begin?",
+    "answer": "1861"
+  },
+  {
+    "id": 32,
+    "category": "History",
+    "question": "Who was the first black president of South Africa?",
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": 33,
+    "category": "History",
+    "question": "Who was the German monk who started the Protestant Reformation?",
+    "answer": "Martin Luther"
+  },
+  {
+    "id": 34,
+    "category": "History",
+    "question": "What was the name of the last queen of France before the French Revolution?",
+    "answer": "Marie Antoinette"
+  },
+  {
+    "id": 35,
+    "category": "History",
+    "question": "What year did the Soviet Union dissolve?",
+    "answer": "1991"
+  },
+  {
+    "id": 36,
+    "category": "History",
+    "question": "Who was the first man to circumnavigate the globe?",
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "id": 37,
+    "category": "History",
+    "question": "What was the name of the treaty that ended World War I?",
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "id": 38,
+    "category": "History",
+    "question": "What empire was ruled by Genghis Khan?",
+    "answer": "Mongol Empire"
+  },
+  {
+    "id": 39,
+    "category": "History",
+    "question": "Who was the first female pilot to fly solo across the Atlantic Ocean?",
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": 40,
+    "category": "History",
+    "question": "What year did the Berlin Wall get built?",
+    "answer": "1961"
+  },
+  {
+    "id": 41,
+    "category": "History",
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "answer": "Joseph Stalin"
+  },
+  {
+    "id": 42,
+    "category": "History",
+    "question": "What was the code name for the Allied invasion of Normandy?",
+    "answer": "Operation Overlord"
+  },
+  {
+    "id": 43,
+    "category": "History",
+    "question": "What was the first capital of ancient Egypt?",
+    "answer": "Memphis"
+  },
+  {
+    "id": 44,
+    "category": "History",
+    "question": "What was the original name of New York City?",
+    "answer": "New Amsterdam"
+  },
+  {
+    "id": 45,
+    "category": "History",
+    "question": "Who was the first person to reach the South Pole?",
+    "answer": "Roald Amundsen"
+  },
+  {
+    "id": 46,
+    "category": "History",
+    "question": "What was the name of the ship that sank in Boston Harbor in 1773?",
+    "answer": "The Dartmouth"
+  },
+  {
+    "id": 47,
+    "category": "History",
+    "question": "What year did the Korean War start?",
+    "answer": "1950"
+  },
+  {
+    "id": 48,
+    "category": "History",
+    "question": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
+    "answer": "Queen Victoria"
+  },
+  {
+    "id": 49,
+    "category": "History",
+    "question": "What year did the United Nations form?",
+    "answer": "1945"
+  }
+]
