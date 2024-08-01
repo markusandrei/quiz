@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then((categoryData) => {
       // Block of code to execute when the fetch is successful
       categories = Object.keys(categoryData);
-
+      categories = shuffleArray(categories);
       displayCategories();
       showElement(menuContainer);
     })
