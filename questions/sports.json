@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answer": "France"
+  },
+  {
+    "id": 1,
+    "category": "Sports",
+    "question": "Who is known as 'The King of Football'?",
+    "answer": "Pelé"
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "question": "Which sport is known as the 'king of sports'?",
+    "answer": "Soccer (Football)"
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "question": "What is the national sport of Japan?",
+    "answer": "Sumo wrestling"
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "question": "Which country has won the most Olympic medals?",
+    "answer": "United States"
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "question": "Who holds the record for the most goals in a single Premier League season?",
+    "answer": "Mohamed Salah"
+  },
+  {
+    "id": 6,
+    "category": "Sports",
+    "question": "In which year were the first modern Olympic Games held?",
+    "answer": "1896"
+  },
+  {
+    "id": 7,
+    "category": "Sports",
+    "question": "Which tennis player has won the most Grand Slam titles?",
+    "answer": "Margaret Court"
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "question": "Which country is known for winning the most Cricket World Cups?",
+    "answer": "Australia"
+  },
+  {
+    "id": 9,
+    "category": "Sports",
+    "question": "What is the highest score possible in a single frame of snooker?",
+    "answer": "147"
+  },
+  {
+    "id": 10,
+    "category": "Sports",
+    "question": "Who is the NBA's all-time leading scorer?",
+    "answer": "Kareem Abdul-Jabbar"
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "question": "Which team won the first Super Bowl?",
+    "answer": "Green Bay Packers"
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "question": "Who has the record for the most home runs in a single MLB season?",
+    "answer": "Barry Bonds"
+  },
+  {
+    "id": 13,
+    "category": "Sports",
+    "question": "Which country won the Rugby World Cup in 2019?",
+    "answer": "South Africa"
+  },
+  {
+    "id": 14,
+    "category": "Sports",
+    "question": "Who is known as the 'Fastest Man Alive'?",
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 15,
+    "category": "Sports",
+    "question": "Which golfer has won the most major championships?",
+    "answer": "Jack Nicklaus"
+  },
+  {
+    "id": 16,
+    "category": "Sports",
+    "question": "What sport is played at Wimbledon?",
+    "answer": "Tennis"
+  },
+  {
+    "id": 17,
+    "category": "Sports",
+    "question": "Who won the FIFA Women's World Cup in 2019?",
+    "answer": "United States"
+  },
+  {
+    "id": 18,
+    "category": "Sports",
+    "question": "What is the national sport of Canada?",
+    "answer": "Lacrosse"
+  },
+  {
+    "id": 19,
+    "category": "Sports",
+    "question": "Which country has hosted the most Olympic Games?",
+    "answer": "United States"
+  },
+  {
+    "id": 20,
+    "category": "Sports",
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 21,
+    "category": "Sports",
+    "question": "What is the maximum break in snooker?",
+    "answer": "147"
+  },
+  {
+    "id": 22,
+    "category": "Sports",
+    "question": "Which NFL team has won the most Super Bowls?",
+    "answer": "Pittsburgh Steelers and New England Patriots"
+  },
+  {
+    "id": 23,
+    "category": "Sports",
+    "question": "Which boxer is known as 'The Greatest'?",
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": 24,
+    "category": "Sports",
+    "question": "What is the national sport of India?",
+    "answer": "Field Hockey"
+  },
+  {
+    "id": 25,
+    "category": "Sports",
+    "question": "Who is the most decorated Olympian of all time?",
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 26,
+    "category": "Sports",
+    "question": "Which country won the ICC Cricket World Cup in 2019?",
+    "answer": "England"
+  },
+  {
+    "id": 27,
+    "category": "Sports",
+    "question": "Who holds the record for the most points scored in an NBA game?",
+    "answer": "Wilt Chamberlain"
+  },
+  {
+    "id": 28,
+    "category": "Sports",
+    "question": "Which country has won the most FIFA World Cups?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 29,
+    "category": "Sports",
+    "question": "Who is the all-time leading scorer in NHL history?",
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "id": 30,
+    "category": "Sports",
+    "question": "What is the main international competition in men's football?",
+    "answer": "FIFA World Cup"
+  },
+  {
+    "id": 31,
+    "category": "Sports",
+    "question": "Which team won the UEFA Champions League in 2020?",
+    "answer": "Bayern Munich"
+  },
+  {
+    "id": 32,
+    "category": "Sports",
+    "question": "Who has won the most Grand Slam singles titles in tennis?",
+    "answer": "Margaret Court"
+  },
+  {
+    "id": 33,
+    "category": "Sports",
+    "question": "What is the highest score in a single game of bowling?",
+    "answer": "300"
+  },
+  {
+    "id": 34,
+    "category": "Sports",
+    "question": "Which country is known for the martial art of Taekwondo?",
+    "answer": "South Korea"
+  },
+  {
+    "id": 35,
+    "category": "Sports",
+    "question": "What is the national sport of Australia?",
+    "answer": "Cricket"
+  },
+  {
+    "id": 36,
+    "category": "Sports",
+    "question": "Who is the only athlete to play in both a Super Bowl and a World Series?",
+    "answer": "Deion Sanders"
+  },
+  {
+    "id": 37,
+    "category": "Sports",
+    "question": "Which country has won the most medals in Winter Olympics history?",
+    "answer": "Norway"
+  },
+  {
+    "id": 38,
+    "category": "Sports",
+    "question": "What sport is known as 'the beautiful game'?",
+    "answer": "Soccer (Football)"
+  },
+  {
+    "id": 39,
+    "category": "Sports",
+    "question": "Who is the captain of the Indian cricket team in 2021?",
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 40,
+    "category": "Sports",
+    "question": "What is the highest governing body of tennis?",
+    "answer": "International Tennis Federation (ITF)"
+  },
+  {
+    "id": 41,
+    "category": "Sports",
+    "question": "Which golfer is known as 'The Golden Bear'?",
+    "answer": "Jack Nicklaus"
+  },
+  {
+    "id": 42,
+    "category": "Sports",
+    "question": "Which country has the most Formula 1 World Championships?",
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 43,
+    "category": "Sports",
+    "question": "Which country won the first FIFA World Cup?",
+    "answer": "Uruguay"
+  },
+  {
+    "id": 44,
+    "category": "Sports",
+    "question": "Who has the most assists in NBA history?",
+    "answer": "John Stockton"
+  },
+  {
+    "id": 45,
+    "category": "Sports",
+    "question": "Which team won the 2016 NBA Finals?",
+    "answer": "Cleveland Cavaliers"
+  },
+  {
+    "id": 46,
+    "category": "Sports",
+    "question": "Which cyclist won the Tour de France seven consecutive times before being stripped of his titles?",
+    "answer": "Lance Armstrong"
+  },
+  {
+    "id": 47,
+    "category": "Sports",
+    "question": "What is the national sport of Pakistan?",
+    "answer": "Field Hockey"
+  },
+  {
+    "id": 48,
+    "category": "Sports",
+    "question": "Which soccer player has won the most Ballon d'Or awards?",
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 49,
+    "category": "Sports",
+    "question": "What is the name of the stadium where the New York Yankees play?",
+    "answer": "Yankee Stadium"
+  }
+]
