@@ -4,5 +4,6 @@
   "Literature": "./questions/literature.json",
   "Sports": "./questions/sports.json",
   "History": "./questions/history.json",
+  "Mythology": "./questions/mythology.json",
   "Science": "./questions/science.json"
 }
