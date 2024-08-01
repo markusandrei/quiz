@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Mythology",
+    "question": "Who is the king of the Greek gods?",
+    "answer": "Zeus"
+  },
+  {
+    "id": 1,
+    "category": "Mythology",
+    "question": "What is the name of Thor's hammer?",
+    "answer": "Mjolnir"
+  },
+  {
+    "id": 2,
+    "category": "Mythology",
+    "question": "Who is the Greek goddess of wisdom?",
+    "answer": "Athena"
+  },
+  {
+    "id": 3,
+    "category": "Mythology",
+    "question": "What is the name of the river that separates the living world from the underworld in Greek mythology?",
+    "answer": "Styx"
+  },
+  {
+    "id": 4,
+    "category": "Mythology",
+    "question": "Who is the Egyptian god of the underworld?",
+    "answer": "Osiris"
+  },
+  {
+    "id": 5,
+    "category": "Mythology",
+    "question": "Who is the Roman god of war?",
+    "answer": "Mars"
+  },
+  {
+    "id": 6,
+    "category": "Mythology",
+    "question": "What is the name of the home of the Norse gods?",
+    "answer": "Asgard"
+  },
+  {
+    "id": 7,
+    "category": "Mythology",
+    "question": "Who is the Greek god of the sea?",
+    "answer": "Poseidon"
+  },
+  {
+    "id": 8,
+    "category": "Mythology",
+    "question": "Who is the goddess of love and beauty in Greek mythology?",
+    "answer": "Aphrodite"
+  },
+  {
+    "id": 9,
+    "category": "Mythology",
+    "question": "Who is the Greek god of the underworld?",
+    "answer": "Hades"
+  },
+  {
+    "id": 10,
+    "category": "Mythology",
+    "question": "Who is the trickster god in Norse mythology?",
+    "answer": "Loki"
+  },
+  {
+    "id": 11,
+    "category": "Mythology",
+    "question": "What is the name of the winged horse in Greek mythology?",
+    "answer": "Pegasus"
+  },
+  {
+    "id": 12,
+    "category": "Mythology",
+    "question": "Who is the Greek god of wine and revelry?",
+    "answer": "Dionysus"
+  },
+  {
+    "id": 13,
+    "category": "Mythology",
+    "question": "What creature is half-man and half-horse in Greek mythology?",
+    "answer": "Centaur"
+  },
+  {
+    "id": 14,
+    "category": "Mythology",
+    "question": "Who is the queen of the gods in Greek mythology?",
+    "answer": "Hera"
+  },
+  {
+    "id": 15,
+    "category": "Mythology",
+    "question": "What is the name of the one-eyed giant in Greek mythology?",
+    "answer": "Cyclops"
+  },
+  {
+    "id": 16,
+    "category": "Mythology",
+    "question": "Who is the Greek god of the sun?",
+    "answer": "Apollo"
+  },
+  {
+    "id": 17,
+    "category": "Mythology",
+    "question": "What is the name of the Norse end of the world?",
+    "answer": "Ragnarok"
+  },
+  {
+    "id": 18,
+    "category": "Mythology",
+    "question": "Who is the Greek goddess of the hunt?",
+    "answer": "Artemis"
+  },
+  {
+    "id": 19,
+    "category": "Mythology",
+    "question": "What is the name of the Egyptian sun god?",
+    "answer": "Ra"
+  },
+  {
+    "id": 20,
+    "category": "Mythology",
+    "question": "Who is the messenger of the gods in Greek mythology?",
+    "answer": "Hermes"
+  },
+  {
+    "id": 21,
+    "category": "Mythology",
+    "question": "What is the name of the dragon slain by Sigurd in Norse mythology?",
+    "answer": "Fafnir"
+  },
+  {
+    "id": 22,
+    "category": "Mythology",
+    "question": "Who is the hero of the Trojan War who killed Hector?",
+    "answer": "Achilles"
+  },
+  {
+    "id": 23,
+    "category": "Mythology",
+    "question": "What is the name of the fire-breathing creature with a lion's head, a goat's body, and a serpent's tail in Greek mythology?",
+    "answer": "Chimera"
+  },
+  {
+    "id": 24,
+    "category": "Mythology",
+    "question": "Who is the Roman god of love?",
+    "answer": "Cupid"
+  },
+  {
+    "id": 25,
+    "category": "Mythology",
+    "question": "What is the name of the Greek hero who completed 12 labors?",
+    "answer": "Heracles"
+  },
+  {
+    "id": 26,
+    "category": "Mythology",
+    "question": "Who is the goddess of the harvest in Greek mythology?",
+    "answer": "Demeter"
+  },
+  {
+    "id": 27,
+    "category": "Mythology",
+    "question": "What is the name of the father of the gods in Norse mythology?",
+    "answer": "Odin"
+  },
+  {
+    "id": 28,
+    "category": "Mythology",
+    "question": "Who is the Greek goddess of the hearth?",
+    "answer": "Hestia"
+  },
+  {
+    "id": 29,
+    "category": "Mythology",
+    "question": "What is the name of the three-headed dog that guards the underworld in Greek mythology?",
+    "answer": "Cerberus"
+  },
+  {
+    "id": 30,
+    "category": "Mythology",
+    "question": "Who is the Roman goddess of the hunt?",
+    "answer": "Diana"
+  },
+  {
+    "id": 31,
+    "category": "Mythology",
+    "question": "Who is the Norse god of thunder?",
+    "answer": "Thor"
+  },
+  {
+    "id": 32,
+    "category": "Mythology",
+    "question": "Who is the Greek god of war?",
+    "answer": "Ares"
+  },
+  {
+    "id": 33,
+    "category": "Mythology",
+    "question": "Who is the goddess of love and beauty in Roman mythology?",
+    "answer": "Venus"
+  },
+  {
+    "id": 34,
+    "category": "Mythology",
+    "question": "What is the name of the hero in Greek mythology who is known for his intelligence and is the central character in Homer's 'Odyssey'?",
+    "answer": "Odysseus"
+  },
+  {
+    "id": 35,
+    "category": "Mythology",
+    "question": "What is the name of the Titan who stole fire from the gods and gave it to humans?",
+    "answer": "Prometheus"
+  },
+  {
+    "id": 36,
+    "category": "Mythology",
+    "question": "Who is the Egyptian goddess of magic and motherhood?",
+    "answer": "Isis"
+  },
+  {
+    "id": 37,
+    "category": "Mythology",
+    "question": "Who is the Greek god of the underworld and the dead?",
+    "answer": "Hades"
+  },
+  {
+    "id": 38,
+    "category": "Mythology",
+    "question": "What is the name of the monster with snakes for hair who could turn people to stone in Greek mythology?",
+    "answer": "Medusa"
+  },
+  {
+    "id": 39,
+    "category": "Mythology",
+    "question": "Who is the god of the forge and fire in Greek mythology?",
+    "answer": "Hephaestus"
+  },
+  {
+    "id": 40,
+    "category": "Mythology",
+    "question": "Who is the Greek god of sleep?",
+    "answer": "Hypnos"
+  },
+  {
+    "id": 41,
+    "category": "Mythology",
+    "question": "Who is the Norse god of mischief?",
+    "answer": "Loki"
+  },
+  {
+    "id": 42,
+    "category": "Mythology",
+    "question": "Who is the Greek god of dreams?",
+    "answer": "Morpheus"
+  },
+  {
+    "id": 43,
+    "category": "Mythology",
+    "question": "What is the name of the nymph who loved Narcissus in Greek mythology?",
+    "answer": "Echo"
+  },
+  {
+    "id": 44,
+    "category": "Mythology",
+    "question": "Who is the Norse goddess of the dead and the underworld?",
+    "answer": "Hel"
+  },
+  {
+    "id": 45,
+    "category": "Mythology",
+    "question": "Who is the Greek goddess of the moon?",
+    "answer": "Selene"
+  },
+  {
+    "id": 46,
+    "category": "Mythology",
+    "question": "What is the name of the Greek hero who was dipped in the River Styx?",
+    "answer": "Achilles"
+  },
+  {
+    "id": 47,
+    "category": "Mythology",
+    "question": "Who is the Norse god of justice and law?",
+    "answer": "Tyr"
+  },
+  {
+    "id": 48,
+    "category": "Mythology",
+    "question": "Who is the Greek goddess of victory?",
+    "answer": "Nike"
+  },
+  {
+    "id": 49,
+    "category": "Mythology",
+    "question": "What is the name of the creature in Greek mythology that has the body of a lion, the head of a goat, and the tail of a serpent?",
+    "answer": "Chimera"
+  }
+]
