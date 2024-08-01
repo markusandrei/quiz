@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "id": 1,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "Diamond"
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 5,
+    "category": "Science",
+    "question": "What is the chemical formula for water?",
+    "answer": "H2O"
+  },
+  {
+    "id": 6,
+    "category": "Science",
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 7,
+    "category": "Science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 8,
+    "category": "Science",
+    "question": "What part of the human brain controls voluntary movements?",
+    "answer": "Cerebrum"
+  },
+  {
+    "id": 9,
+    "category": "Science",
+    "question": "What is the nearest star to Earth?",
+    "answer": "The Sun"
+  },
+  {
+    "id": 10,
+    "category": "Science",
+    "question": "What element does 'O' represent on the periodic table?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 11,
+    "category": "Science",
+    "question": "What is the main gas found in the air we breathe?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 12,
+    "category": "Science",
+    "question": "What is the center of an atom called?",
+    "answer": "Nucleus"
+  },
+  {
+    "id": 13,
+    "category": "Science",
+    "question": "What force keeps us on the ground?",
+    "answer": "Gravity"
+  },
+  {
+    "id": 14,
+    "category": "Science",
+    "question": "What type of celestial body is the Sun?",
+    "answer": "Star"
+  },
+  {
+    "id": 15,
+    "category": "Science",
+    "question": "What is the most common element in the universe?",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 16,
+    "category": "Science",
+    "question": "What is the study of living organisms called?",
+    "answer": "Biology"
+  },
+  {
+    "id": 17,
+    "category": "Science",
+    "question": "What planet is known as the Earth's twin?",
+    "answer": "Venus"
+  },
+  {
+    "id": 18,
+    "category": "Science",
+    "question": "What is the boiling point of water in degrees Celsius?",
+    "answer": "100 degrees Celsius"
+  },
+  {
+    "id": 19,
+    "category": "Science",
+    "question": "What is the smallest unit of life?",
+    "answer": "Cell"
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "question": "What is the process by which plants make their food?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 21,
+    "category": "Science",
+    "question": "What is the name of the galaxy we live in?",
+    "answer": "Milky Way"
+  },
+  {
+    "id": 22,
+    "category": "Science",
+    "question": "What is the heaviest naturally occurring element?",
+    "answer": "Uranium"
+  },
+  {
+    "id": 23,
+    "category": "Science",
+    "question": "Who is known as the father of modern physics?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 24,
+    "category": "Science",
+    "question": "What is the largest organ in the human body?",
+    "answer": "Skin"
+  },
+  {
+    "id": 25,
+    "category": "Science",
+    "question": "What is the term for animals that eat both plants and animals?",
+    "answer": "Omnivores"
+  },
+  {
+    "id": 26,
+    "category": "Science",
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "answer": "Covalent bond"
+  },
+  {
+    "id": 27,
+    "category": "Science",
+    "question": "What is the primary source of energy for the Earth?",
+    "answer": "The Sun"
+  },
+  {
+    "id": 28,
+    "category": "Science",
+    "question": "What is the name of the first artificial Earth satellite?",
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": 29,
+    "category": "Science",
+    "question": "What gas is released by plants during photosynthesis?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 30,
+    "category": "Science",
+    "question": "What is the study of matter and its interactions called?",
+    "answer": "Chemistry"
+  },
+  {
+    "id": 31,
+    "category": "Science",
+    "question": "What is the most common gas in the Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 32,
+    "category": "Science",
+    "question": "What is the universal solvent?",
+    "answer": "Water"
+  },
+  {
+    "id": 33,
+    "category": "Science",
+    "question": "What is the primary function of red blood cells?",
+    "answer": "To carry oxygen"
+  },
+  {
+    "id": 34,
+    "category": "Science",
+    "question": "What is the term for the amount of matter in an object?",
+    "answer": "Mass"
+  },
+  {
+    "id": 35,
+    "category": "Science",
+    "question": "What is the second most abundant element in the Earth's crust?",
+    "answer": "Silicon"
+  },
+  {
+    "id": 36,
+    "category": "Science",
+    "question": "What type of cell lacks a nucleus?",
+    "answer": "Prokaryotic cell"
+  },
+  {
+    "id": 37,
+    "category": "Science",
+    "question": "What is the speed of light in a vacuum?",
+    "answer": "Approximately 299,792 kilometers per second"
+  },
+  {
+    "id": 38,
+    "category": "Science",
+    "question": "What is the term for a change in a species over time?",
+    "answer": "Evolution"
+  },
+  {
+    "id": 39,
+    "category": "Science",
+    "question": "What is the most abundant mineral in the human body?",
+    "answer": "Calcium"
+  },
+  {
+    "id": 40,
+    "category": "Science",
+    "question": "What is the name of the process by which cells divide?",
+    "answer": "Mitosis"
+  },
+  {
+    "id": 41,
+    "category": "Science",
+    "question": "What is the term for a substance made of only one type of atom?",
+    "answer": "Element"
+  },
+  {
+    "id": 42,
+    "category": "Science",
+    "question": "What is the pH of pure water?",
+    "answer": "7"
+  },
+  {
+    "id": 43,
+    "category": "Science",
+    "question": "What is the basic unit of a chemical element?",
+    "answer": "Atom"
+  },
+  {
+    "id": 44,
+    "category": "Science",
+    "question": "What is the study of the Earth's physical structure and substance called?",
+    "answer": "Geology"
+  },
+  {
+    "id": 45,
+    "category": "Science",
+    "question": "What is the smallest particle of a chemical element that retains its chemical properties?",
+    "answer": "Atom"
+  },
+  {
+    "id": 46,
+    "category": "Science",
+    "question": "What is the main component of the sun?",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 47,
+    "category": "Science",
+    "question": "What is the primary component of natural gas?",
+    "answer": "Methane"
+  },
+  {
+    "id": 48,
+    "category": "Science",
+    "question": "What is the common term for the clavicle?",
+    "answer": "Collarbone"
+  },
+  {
+    "id": 49,
+    "category": "Science",
+    "question": "What is the name of the planet known for its rings?",
+    "answer": "Saturn"
+  }
+]
