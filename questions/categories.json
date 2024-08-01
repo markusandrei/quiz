@@ -2,5 +2,7 @@
   "Geography": "./questions/geography.json",
   "Astronomy": "./questions/astronomy.json",
   "Literature": "./questions/literature.json",
-  "Sports": "./questions/sports.json"
+  "Sports": "./questions/sports.json",
+  "History": "./questions/history.json",
+  "Science": "./questions/science.json"
 }
