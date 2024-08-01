@@ -24,9 +24,9 @@ window.addEventListener("resize", () => {
 
 function updateCategoryText(element) {
   if (window.innerWidth <= 800) {
-    element.innerHTML = `<span class="fontColorAccent">${selectedCategory}</span>`;
+    element.innerHTML = `<span class="fontColorAccent fontBold">${selectedCategory}</span>`;
   } else {
-    element.innerHTML = `Category: <span class="fontColorAccent">${selectedCategory}</span>`;
+    element.innerHTML = `Category: <span class="fontColorAccent fontBold">${selectedCategory}</span>`;
   }
 }
 
@@ -128,7 +128,7 @@ function startQuiz() {
 
 function displayInfo() {
   const categoryElement = document.createElement("p");
-  categoryElement.classList.add("fontMedium", "fontBold", "no-wrap");
+  categoryElement.classList.add("fontMedium", "no-wrap");
   categoryElement.id = "category-info";
   updateCategoryText(categoryElement);
   infoContainer.appendChild(categoryElement);
