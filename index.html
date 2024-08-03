@@ -14,25 +14,41 @@
   </head>
   <body>
     <header>
-      <h1 class="fontExtraLarge fontBold" id="title">Quiz Website</h1>
+      <h1 class="fontExtraLarge fontBold fontColorAccent" id="title">
+        Quiz Website
+      </h1>
     </header>
     <main id="main">
-      <div class="card display-none" id="card">
-        <div class="info display-none" id="info"></div>
-        <div class="menu display-none" id="menu">
-          <p class="fontLarge">Pick a Category:</p>
-          <div class="categories" id="categories"></div>
+      <div class="card" id="categoryCard">
+        <p class="fontLarge fontBold" onclick='alert("clicked")'>
+          Choose a Category:
+        </p>
+        <div class="list fontMedium" id="categories"></div>
+      </div>
+
+      <div class="card display-none" id="difficultyCard">
+        <p class="fontLarge fontBold">Choose a Difficulty:</p>
+        <div class="list fontMedium" id="difficulties">
+          <p onclick='setDifficulty("Easy")'>Easy</p>
+          <p onclick='setDifficulty("Medium")'>Medium</p>
+          <p onclick='setDifficulty("Hard")'>Hard</p>
+          <p onclick='setDifficulty("Extreme")'>Extreme</p>
         </div>
-        <div class="quiz display-none" id="quiz">
-          <p class="question fontBold" id="question"></p>
-          <div class="options" id="options"></div>
+      </div>
+
+      <div class="card display-none" id="quizCard">
+        <div id="infoContainer"></div>
+        <div id="quizContainer">
+          <p class="question fontLarge fontBold" id="question"></p>
+          <div class="list fontMedium" id="options"></div>
+        </div>
+
+        <div class="timer-container">
+          <div id="background-bar"></div>
+          <div id="progress-bar"></div>
         </div>
       </div>
     </main>
-    <footer>
-      <p class="fontSmall" style="text-align: center;">ver 08.01.4.36p</p>
-    </footer>
-
     <script src="./script.js"></script>
   </body>
 </html>
