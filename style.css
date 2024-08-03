@@ -12,12 +12,17 @@
 
   /* Font size variables */
   --font-size-base: 20px; /* Base font size */
+  --font-size-extra-small: 0.75rem; /* 15px */
   --font-size-small: 0.875rem; /* 17.5px */
   --font-size-medium: 1rem; /* 20px */
   --font-size-large: 1.25rem; /* 25px */
   --font-size-extra-large: 1.5rem; /* 30px */
   --font-size-2x-large: 2rem; /* 40px */
   --font-size-3x-large: 3rem; /* 60px */
+}
+
+.fontExtraSmall {
+  font-size: var(--font-size-extra-small);
 }
 
 .fontSmall {
@@ -148,6 +153,14 @@ main {
   padding: 5% 5% 0 5%;
 }
 
+#question {
+  text-align: center;
+}
+
+.cardTitle {
+  text-align: center;
+}
+
 .errorMessage {
   color: red;
 }
@@ -166,6 +179,30 @@ main {
 
 /* Mobile Styles */
 @media (max-width: 800px) {
+  .fontSmall {
+    font-size: var(--font-size-extra-small);
+  }
+
+  .fontMedium {
+    font-size: var(--font-size-small);
+  }
+
+  .fontLarge {
+    font-size: var(--font-size-medium);
+  }
+
+  .fontExtraLarge {
+    font-size: var(--font-size-large);
+  }
+
+  .font2xLarge {
+    font-size: var(--font-size-extra-large);
+  }
+
+  .font3xLarge {
+    font-size: var(--font-size-2x-large);
+  }
+
   main {
     padding: 2% 10%;
   }
