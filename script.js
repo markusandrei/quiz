@@ -4,16 +4,25 @@ let selectedCategory = "";
 let questions = [];
 let currentQuestion = "";
 let usedQuestions = [];
+let selectedDifficulty = "";
+
+const shortDuration = 5; // 5 seconds
+const mediumDuration = 10; // 10 seconds
+const longDuration = 15; // 15 seconds
+
+let totalTime = 0;
+let endTime = 0;
+let timerInterval = null;
 
 // DOM elements for cache
-let mainContainer;
-let infoContainer;
-let cardElement;
-let menuContainer;
-let categoriesContainer;
+let categoryContainer;
+let categoryList;
+let difficultyContainer;
 let quizContainer;
+let infoContainer;
 let questionElement;
-let optionsContainer;
+let optionList;
+let progressBar;
 
 window.addEventListener("resize", () => {
   const categoryElement = document.getElementById("category-info");
@@ -32,14 +41,14 @@ function updateCategoryText(element) {
 
 document.addEventListener("DOMContentLoaded", () => {
   // Caching DOM elements
-  mainContainer = document.getElementById("main");
-  infoContainer = document.getElementById("info");
-  cardElement = document.getElementById("card");
-  menuContainer = document.getElementById("menu");
-  categoriesContainer = document.getElementById("categories");
-  quizContainer = document.getElementById("quiz");
+  categoryContainer = document.getElementById("categoryCard");
+  categoryList = document.getElementById("categories");
+  difficultyContainer = document.getElementById("difficultyCard");
+  quizContainer = document.getElementById("quizCard");
+  infoContainer = document.getElementById("infoContainer");
   questionElement = document.getElementById("question");
-  optionsContainer = document.getElementById("options");
+  optionList = document.getElementById("options");
+  progressBar = document.getElementById("progress-bar");
 
   fetch("./questions/categories.json")
     .then((response) => response.json())
@@ -48,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
       categories = Object.keys(categoryData);
       categories = shuffleArray(categories);
       displayCategories();
-      showElement(menuContainer);
+      //showElement(menuContainer);
     })
     .catch((error) => {
       // Block of code to execute when the fetch fails
@@ -57,12 +66,12 @@ document.addEventListener("DOMContentLoaded", () => {
       const errorMsg = document.createElement("p");
       errorMsg.textContent = ("Error loading the JSON file:", error);
       errorMsg.className = "fontMedium errorMessage";
-      cardElement.appendChild(errorMsg);
+      // quizContainer.appendChild(errorMsg);
 
       return;
     })
     .finally(() => {
-      showElement(cardElement);
+      //showElement(quizContainer);
     });
 
   const categoryElement = document.getElementById("category-info");
@@ -77,7 +86,7 @@ function displayCategories() {
     categoryElement.textContent = category;
     categoryElement.onclick = () => categoryClicked(category);
     categoryElement.className = "fontMedium";
-    categoriesContainer.appendChild(categoryElement);
+    categoryList.appendChild(categoryElement);
   });
 }
 
@@ -86,9 +95,8 @@ function categoryClicked(category) {
 
   loadQuestions()
     .then(() => {
-      hideElement(menuContainer);
-      startQuiz();
-      displayInfo();
+      hideElement(categoryContainer);
+      showElement(difficultyContainer);
     })
     .catch((error) => {
       console.error("Error loading questions or starting quiz:", error);
@@ -121,8 +129,31 @@ function startQuiz() {
     location.reload();
     return;
   }
+  clearOptions();
   displayQuestion();
   displayOptions();
+  stopTimer();
+
+  switch (selectedDifficulty) {
+    case "Easy":
+      startTimer(longDuration);
+      break;
+
+    case "Medium":
+      startTimer(mediumDuration);
+      break;
+
+    case "Hard":
+      startTimer(shortDuration);
+      break;
+
+    case "Extreme":
+      startTimer(shortDuration);
+      break;
+
+    default:
+      break;
+  }
   showElement(quizContainer);
 }
 
@@ -144,8 +175,7 @@ function displayInfo() {
 
 function updateItemCount() {
   const itemElement = document.getElementById("itemCount");
-  itemElement.textContent =
-    usedQuestions.length + 1 + " of " + questions.length;
+  itemElement.textContent = usedQuestions.length + " of " + questions.length;
 }
 
 function displayQuestion() {
@@ -158,6 +188,8 @@ function displayQuestion() {
     currentQuestion = questions[index].id;
     const question = questions[index].question;
     questionElement.textContent = question;
+    usedQuestions.push(questions[currentQuestion].id);
+    updateItemCount();
   }
 }
 
@@ -182,13 +214,13 @@ function displayOptions() {
     optionElement.textContent = option;
 
     if (option === questions[currentQuestion].answer) {
-      optionElement.onclick = () => correctClicked();
+      optionElement.onclick = () => answerClicked("correct");
     } else {
-      optionElement.onclick = () => wrongClicked();
+      optionElement.onclick = () => answerClicked("wrong");
     }
 
     optionElement.classList.add("option");
-    optionsContainer.appendChild(optionElement);
+    optionList.appendChild(optionElement);
   });
 }
 
@@ -214,31 +246,83 @@ function shuffleArray(array) {
   return array;
 }
 
-function wrongClicked() {
-  cardElement.classList.add("redBorder");
-
-  // 1 second delay
-  setTimeout(function () {
-    cardElement.classList.remove("redBorder");
-  }, 250);
-}
-
-function correctClicked() {
-  usedQuestions.push(questions[currentQuestion].id);
-  cardElement.classList.add("greenBorder");
-
-  setTimeout(function () {
-    cardElement.classList.remove("greenBorder");
+function answerClicked(truth) {
+  if (truth === "correct") {
+    quizContainer.classList.add("greenBorder");
     clearOptions();
+    stopTimer();
     startQuiz();
-    if (usedQuestions.length !== questions.length) {
-      updateItemCount();
-    }
+  } else {
+    quizContainer.classList.add("redBorder");
+  }
+
+  setTimeout(function () {
+    quizContainer.classList.remove("redBorder", "greenBorder");
   }, 250);
 }
 
 function clearOptions() {
-  while (optionsContainer.firstChild) {
-    optionsContainer.removeChild(optionsContainer.firstChild);
+  while (optionList.firstChild) {
+    optionList.removeChild(optionList.firstChild);
   }
+}
+
+function setDifficulty(difficulty) {
+  selectedDifficulty = difficulty;
+  hideElement(difficultyContainer);
+  displayInfo();
+  startQuiz();
+  showElement(quizContainer);
+}
+
+function startTimer(duration) {
+  totalTime = duration;
+  endTime = Date.now() + totalTime * 1000;
+
+  // Clear any existing interval
+  if (timerInterval) {
+    clearInterval(timerInterval);
+  }
+
+  // Start the new timer
+  timerInterval = setInterval(() => {
+    const timeRemaining = Math.max(0, (endTime - Date.now()) / 1000);
+
+    if (timeRemaining <= 0) {
+      clearInterval(timerInterval);
+      startQuiz();
+
+      // Reset the progress bar to 100% without animation
+      progressBar.classList.add("no-animation");
+      progressBar.style.width = "100%";
+
+      // Force a reflow to apply the width change without animation
+      progressBar.offsetHeight; // Trigger reflow
+
+      // Enable animation for the countdown
+      progressBar.classList.remove("no-animation");
+
+      return;
+    }
+
+    // Animate the progress bar
+    progressBar.style.transition = `width ${totalTime}s linear`;
+    progressBar.style.width = "0%";
+  }, 1000 / 60); // Run the interval more frequently for better accuracy
+}
+
+function stopTimer() {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+  }
+
+  // Reset the progress bar
+  progressBar.classList.add("no-animation");
+  progressBar.style.width = "100%";
+  progressBar.offsetHeight; // Trigger reflow
+  progressBar.classList.remove("no-animation");
+
+  // Reset variables
+  totalTime = 0;
+  endTime = 0;
 }
