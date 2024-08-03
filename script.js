@@ -23,6 +23,7 @@ let infoContainer;
 let questionElement;
 let optionList;
 let progressBar;
+let errorContainer;
 
 window.addEventListener("resize", () => {
   const categoryElement = document.getElementById("category-info");
@@ -49,6 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
   questionElement = document.getElementById("question");
   optionList = document.getElementById("options");
   progressBar = document.getElementById("progress-bar");
+  errorContainer = document.getElementById("errorCard");
 
   fetch("./questions/categories.json")
     .then((response) => response.json())
@@ -57,21 +59,11 @@ document.addEventListener("DOMContentLoaded", () => {
       categories = Object.keys(categoryData);
       categories = shuffleArray(categories);
       displayCategories();
-      //showElement(menuContainer);
+      showElement(categoryContainer);
     })
     .catch((error) => {
-      // Block of code to execute when the fetch fails
-      console.error("Error loading the JSON file:", error);
-
-      const errorMsg = document.createElement("p");
-      errorMsg.textContent = ("Error loading the JSON file:", error);
-      errorMsg.className = "fontMedium errorMessage";
-      // quizContainer.appendChild(errorMsg);
-
+      displayErrorMsg(error);
       return;
-    })
-    .finally(() => {
-      //showElement(quizContainer);
     });
 
   const categoryElement = document.getElementById("category-info");
@@ -79,6 +71,14 @@ document.addEventListener("DOMContentLoaded", () => {
     updateCategoryText(categoryElement);
   }
 });
+
+function displayErrorMsg(error) {
+  const errorMsg = document.createElement("p");
+  errorMsg.textContent = error;
+  errorMsg.className = "fontMedium errorMessage";
+  errorContainer.appendChild(errorMsg);
+  showElement(errorContainer);
+}
 
 function displayCategories() {
   categories.forEach((category) => {
@@ -99,7 +99,8 @@ function categoryClicked(category) {
       showElement(difficultyContainer);
     })
     .catch((error) => {
-      console.error("Error loading questions or starting quiz:", error);
+      displayErrorMsg(error);
+      return;
     });
 }
 
@@ -114,13 +115,9 @@ function loadQuestions() {
         .then((questionData) => {
           questions = questionData;
         })
-        .catch((error) =>
-          console.error("Error loading the questions JSON file:", error)
-        );
+        .catch((error) => displayErrorMsg(error));
     })
-    .catch((error) =>
-      console.error("Error loading the categories JSON file:", error)
-    );
+    .catch((error) => displayErrorMsg(error));
 }
 
 function startQuiz() {
