@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Food",
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "id": 1,
+    "category": "Food",
+    "question": "Which country is famous for its sushi?",
+    "answer": "Japan"
+  },
+  {
+    "id": 2,
+    "category": "Food",
+    "question": "What is the primary ingredient in hummus?",
+    "answer": "Chickpeas"
+  },
+  {
+    "id": 3,
+    "category": "Food",
+    "question": "Which fruit is known as the 'king of fruits'?",
+    "answer": "Durian"
+  },
+  {
+    "id": 4,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional Greek salad?",
+    "answer": "Tomato"
+  },
+  {
+    "id": 5,
+    "category": "Food",
+    "question": "What type of pasta is shaped like little rice grains?",
+    "answer": "Orzo"
+  },
+  {
+    "id": 6,
+    "category": "Food",
+    "question": "Which country is known for its tapas?",
+    "answer": "Spain"
+  },
+  {
+    "id": 7,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional pesto sauce?",
+    "answer": "Basil"
+  },
+  {
+    "id": 8,
+    "category": "Food",
+    "question": "What type of cheese is traditionally used on a Greek salad?",
+    "answer": "Feta"
+  },
+  {
+    "id": 9,
+    "category": "Food",
+    "question": "What is the main ingredient in falafel?",
+    "answer": "Chickpeas"
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "question": "Which country is known for its maple syrup?",
+    "answer": "Canada"
+  },
+  {
+    "id": 11,
+    "category": "Food",
+    "question": "What type of bread is used to make a traditional Philly cheesesteak?",
+    "answer": "Hoagie roll"
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "question": "Which fruit is used to make wine?",
+    "answer": "Grapes"
+  },
+  {
+    "id": 13,
+    "category": "Food",
+    "question": "What is the main ingredient in sauerkraut?",
+    "answer": "Cabbage"
+  },
+  {
+    "id": 14,
+    "category": "Food",
+    "question": "Which vegetable is known as 'courgette' in the UK?",
+    "answer": "Zucchini"
+  },
+  {
+    "id": 15,
+    "category": "Food",
+    "question": "What type of fruit is a 'Cavendish'?",
+    "answer": "Banana"
+  },
+  {
+    "id": 16,
+    "category": "Food",
+    "question": "Which Italian city is known for its balsamic vinegar?",
+    "answer": "Modena"
+  },
+  {
+    "id": 17,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional Caesar salad?",
+    "answer": "Romaine lettuce"
+  },
+  {
+    "id": 18,
+    "category": "Food",
+    "question": "Which country is the largest producer of coffee?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 19,
+    "category": "Food",
+    "question": "What type of pasta is shaped like a small tube?",
+    "answer": "Penne"
+  },
+  {
+    "id": 20,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional tzatziki sauce?",
+    "answer": "Yogurt"
+  },
+  {
+    "id": 21,
+    "category": "Food",
+    "question": "Which fruit is used to make marmalade?",
+    "answer": "Orange"
+  },
+  {
+    "id": 22,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional quiche Lorraine?",
+    "answer": "Bacon"
+  },
+  {
+    "id": 23,
+    "category": "Food",
+    "question": "Which country is known for its bratwurst sausage?",
+    "answer": "Germany"
+  },
+  {
+    "id": 24,
+    "category": "Food",
+    "question": "What type of vegetable is a 'bell pepper'?",
+    "answer": "Capsicum"
+  },
+  {
+    "id": 25,
+    "category": "Food",
+    "question": "Which fruit is known for its high vitamin C content?",
+    "answer": "Orange"
+  },
+  {
+    "id": 26,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional Italian gnocchi?",
+    "answer": "Potato"
+  },
+  {
+    "id": 27,
+    "category": "Food",
+    "question": "Which country is famous for its chocolate?",
+    "answer": "Belgium"
+  },
+  {
+    "id": 28,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional Indian curry?",
+    "answer": "Spices"
+  },
+  {
+    "id": 29,
+    "category": "Food",
+    "question": "What type of bread is used to make a traditional French croissant?",
+    "answer": "Butter"
+  },
+  {
+    "id": 30,
+    "category": "Food",
+    "question": "Which country is known for its kimchi?",
+    "answer": "South Korea"
+  },
+  {
+    "id": 31,
+    "category": "Food",
+    "question": "What type of pasta is shaped like a long, thin rod?",
+    "answer": "Spaghetti"
+  },
+  {
+    "id": 32,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional miso soup?",
+    "answer": "Soybean paste"
+  },
+  {
+    "id": 33,
+    "category": "Food",
+    "question": "Which country is known for its paella?",
+    "answer": "Spain"
+  },
+  {
+    "id": 34,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional Japanese sushi?",
+    "answer": "Rice"
+  },
+  {
+    "id": 35,
+    "category": "Food",
+    "question": "Which fruit is used to make traditional Greek moussaka?",
+    "answer": "Eggplant"
+  },
+  {
+    "id": 36,
+    "category": "Food",
+    "question": "What type of fruit is a 'Granny Smith'?",
+    "answer": "Apple"
+  },
+  {
+    "id": 37,
+    "category": "Food",
+    "question": "Which vegetable is known for its high iron content?",
+    "answer": "Spinach"
+  },
+  {
+    "id": 38,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional Spanish tortilla?",
+    "answer": "Potato"
+  },
+  {
+    "id": 39,
+    "category": "Food",
+    "question": "Which country is known for its fondue?",
+    "answer": "Switzerland"
+  },
+  {
+    "id": 40,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional French ratatouille?",
+    "answer": "Vegetables"
+  },
+  {
+    "id": 41,
+    "category": "Food",
+    "question": "What type of fruit is a 'Bartlett'?",
+    "answer": "Pear"
+  },
+  {
+    "id": 42,
+    "category": "Food",
+    "question": "Which vegetable is known for its high water content?",
+    "answer": "Cucumber"
+  },
+  {
+    "id": 43,
+    "category": "Food",
+    "question": "What is the main ingredient in a traditional Italian lasagna?",
+    "answer": "Pasta"
+  },
+  {
+    "id": 44,
+    "category": "Food",
+    "question": "Which fruit is used to make traditional Italian limoncello?",
+    "answer": "Lemon"
+  },
+  {
+    "id": 45,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional Vietnamese pho?",
+    "answer": "Beef"
+  },
+  {
+    "id": 46,
+    "category": "Food",
+    "question": "Which country is known for its maple syrup?",
+    "answer": "Canada"
+  },
+  {
+    "id": 47,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional French coq au vin?",
+    "answer": "Chicken"
+  },
+  {
+    "id": 48,
+    "category": "Food",
+    "question": "Which fruit is used to make traditional Spanish sangria?",
+    "answer": "Orange"
+  },
+  {
+    "id": 49,
+    "category": "Food",
+    "question": "What is the main ingredient in traditional Italian risotto?",
+    "answer": "Rice"
+  }
+]
