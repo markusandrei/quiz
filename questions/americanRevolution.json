@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "American Revolution",
+    "question": "In which year did the American Revolutionary War begin?",
+    "answer": "1775"
+  },
+  {
+    "id": 1,
+    "category": "American Revolution",
+    "question": "Who was the primary author of the Declaration of Independence?",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": 2,
+    "category": "American Revolution",
+    "question": "Which battle is considered the turning point of the American Revolutionary War?",
+    "answer": "Battle of Saratoga"
+  },
+  {
+    "id": 3,
+    "category": "American Revolution",
+    "question": "Who was the commander-in-chief of the Continental Army?",
+    "answer": "George Washington"
+  },
+  {
+    "id": 4,
+    "category": "American Revolution",
+    "question": "Which treaty ended the American Revolutionary War?",
+    "answer": "Treaty of Paris (1783)"
+  },
+  {
+    "id": 5,
+    "category": "American Revolution",
+    "question": "What was the name of the first battles of the American Revolutionary War?",
+    "answer": "Battles of Lexington and Concord"
+  },
+  {
+    "id": 6,
+    "category": "American Revolution",
+    "question": "Who was the King of Great Britain during the American Revolution?",
+    "answer": "King George III"
+  },
+  {
+    "id": 7,
+    "category": "American Revolution",
+    "question": "What was the purpose of the Continental Congress?",
+    "answer": "To coordinate resistance against British policies"
+  },
+  {
+    "id": 8,
+    "category": "American Revolution",
+    "question": "Which pamphlet by Thomas Paine encouraged American independence?",
+    "answer": "Common Sense"
+  },
+  {
+    "id": 9,
+    "category": "American Revolution",
+    "question": "What was the last major battle of the American Revolutionary War?",
+    "answer": "Battle of Yorktown"
+  },
+  {
+    "id": 10,
+    "category": "American Revolution",
+    "question": "Who was the French general who played a crucial role in the American victory?",
+    "answer": "Marquis de Lafayette"
+  },
+  {
+    "id": 11,
+    "category": "American Revolution",
+    "question": "Which document formally declared the thirteen colonies' independence from Britain?",
+    "answer": "Declaration of Independence"
+  },
+  {
+    "id": 12,
+    "category": "American Revolution",
+    "question": "What was the name of the colonial militia members who could be ready to fight at a minute's notice?",
+    "answer": "Minutemen"
+  },
+  {
+    "id": 13,
+    "category": "American Revolution",
+    "question": "Which winter encampment tested the resolve of the Continental Army in 1777-1778?",
+    "answer": "Valley Forge"
+  },
+  {
+    "id": 14,
+    "category": "American Revolution",
+    "question": "Which act imposed by Britain taxed paper, tea, and other goods, leading to colonial unrest?",
+    "answer": "Stamp Act"
+  },
+  {
+    "id": 15,
+    "category": "American Revolution",
+    "question": "Who was the British general who surrendered at Yorktown?",
+    "answer": "General Cornwallis"
+  },
+  {
+    "id": 16,
+    "category": "American Revolution",
+    "question": "What was the significance of the Boston Tea Party?",
+    "answer": "It was a protest against the Tea Act and British taxation"
+  },
+  {
+    "id": 17,
+    "category": "American Revolution",
+    "question": "Which alliance provided crucial support to the American colonies during the Revolutionary War?",
+    "answer": "Franco-American Alliance"
+  },
+  {
+    "id": 18,
+    "category": "American Revolution",
+    "question": "What was the name of the first constitution of the United States?",
+    "answer": "Articles of Confederation"
+  },
+  {
+    "id": 19,
+    "category": "American Revolution",
+    "question": "Who famously warned the colonial militia of the approaching British forces before the battles of Lexington and Concord?",
+    "answer": "Paul Revere"
+  },
+  {
+    "id": 20,
+    "category": "American Revolution",
+    "question": "Which battle demonstrated the Americans' ability to stand up to the British, despite ending in a colonial retreat?",
+    "answer": "Battle of Bunker Hill"
+  },
+  {
+    "id": 21,
+    "category": "American Revolution",
+    "question": "Which founding father is known for his diplomatic efforts in securing French support for the American cause?",
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "id": 22,
+    "category": "American Revolution",
+    "question": "Which colonial victory in 1777 convinced France to join the war on the American side?",
+    "answer": "Battle of Saratoga"
+  },
+  {
+    "id": 23,
+    "category": "American Revolution",
+    "question": "What was the main purpose of the Intolerable Acts passed by Britain in 1774?",
+    "answer": "To punish the Massachusetts colony for the Boston Tea Party"
+  },
+  {
+    "id": 24,
+    "category": "American Revolution",
+    "question": "Which river did George Washington famously cross on Christmas night in 1776?",
+    "answer": "Delaware River"
+  },
+  {
+    "id": 25,
+    "category": "American Revolution",
+    "question": "What was the main goal of the Olive Branch Petition?",
+    "answer": "To seek a peaceful resolution with Britain"
+  },
+  {
+    "id": 26,
+    "category": "American Revolution",
+    "question": "Which battle in 1781 effectively ended major combat operations in the American Revolutionary War?",
+    "answer": "Battle of Yorktown"
+  },
+  {
+    "id": 27,
+    "category": "American Revolution",
+    "question": "Which document served as the formal end to the Revolutionary War and recognized American independence?",
+    "answer": "Treaty of Paris (1783)"
+  },
+  {
+    "id": 28,
+    "category": "American Revolution",
+    "question": "Which British legislation closed Boston Harbor and revoked Massachusetts' charter in response to colonial resistance?",
+    "answer": "Intolerable Acts"
+  },
+  {
+    "id": 29,
+    "category": "American Revolution",
+    "question": "Who was the Prussian military officer who trained the Continental Army at Valley Forge?",
+    "answer": "Baron von Steuben"
+  },
+  {
+    "id": 30,
+    "category": "American Revolution",
+    "question": "Which battle is known as the 'Shot Heard 'Round the World'?",
+    "answer": "Battle of Lexington"
+  },
+  {
+    "id": 31,
+    "category": "American Revolution",
+    "question": "Which British general led the forces at the Battle of Bunker Hill?",
+    "answer": "General William Howe"
+  },
+  {
+    "id": 32,
+    "category": "American Revolution",
+    "question": "Which pamphlet by Thomas Paine argued for American independence from Britain?",
+    "answer": "Common Sense"
+  },
+  {
+    "id": 33,
+    "category": "American Revolution",
+    "question": "What was the main reason the British imposed new taxes on the American colonies in the 1760s?",
+    "answer": "To pay for debts incurred during the French and Indian War"
+  },
+  {
+    "id": 34,
+    "category": "American Revolution",
+    "question": "Which battle in 1780 was a significant defeat for the British in the Southern theater of the war?",
+    "answer": "Battle of Cowpens"
+  },
+  {
+    "id": 35,
+    "category": "American Revolution",
+    "question": "Which American victory in 1781 led to the capture of a large British army in the Southern colonies?",
+    "answer": "Battle of Yorktown"
+  },
+  {
+    "id": 36,
+    "category": "American Revolution",
+    "question": "What was the primary purpose of the Sons of Liberty?",
+    "answer": "To organize resistance against British policies"
+  },
+  {
+    "id": 37,
+    "category": "American Revolution",
+    "question": "Which colonial leader was known for his fiery speeches and the phrase 'Give me liberty, or give me death!'?",
+    "answer": "Patrick Henry"
+  },
+  {
+    "id": 38,
+    "category": "American Revolution",
+    "question": "What was the main objective of the British Southern strategy during the Revolutionary War?",
+    "answer": "To gain support from Loyalists and control the Southern colonies"
+  },
+  {
+    "id": 39,
+    "category": "American Revolution",
+    "question": "Which act imposed by Britain required colonists to provide housing and supplies for British troops?",
+    "answer": "Quartering Act"
+  },
+  {
+    "id": 40,
+    "category": "American Revolution",
+    "question": "Which battle in 1777 resulted in the capture of British General Burgoyne and was a turning point in the war?",
+    "answer": "Battle of Saratoga"
+  },
+  {
+    "id": 41,
+    "category": "American Revolution",
+    "question": "Which colonial pamphlet series, written by John Dickinson, argued against the Townshend Acts?",
+    "answer": "Letters from a Farmer in Pennsylvania"
+  },
+  {
+    "id": 42,
+    "category": "American Revolution",
+    "question": "Which group met in Philadelphia in 1774 to coordinate a response to the Intolerable Acts?",
+    "answer": "First Continental Congress"
+  },
+  {
+    "id": 43,
+    "category": "American Revolution",
+    "question": "Who was the American diplomat who negotiated the Treaty of Alliance with France in 1778?",
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "id": 44,
+    "category": "American Revolution",
+    "question": "Which British act imposed taxes on paper, paint, glass, and tea imported into the colonies?",
+    "answer": "Townshend Acts"
+  },
+  {
+    "id": 45,
+    "category": "American Revolution",
+    "question": "Which American spy was captured and executed by the British in 1776, famously saying, 'I only regret that I have but one life to lose for my country'?",
+    "answer": "Nathan Hale"
+  },
+  {
+    "id": 46,
+    "category": "American Revolution",
+    "question": "What was the primary purpose of the Stamp Act Congress held in 1765?",
+    "answer": "To organize a unified response to the Stamp Act"
+  },
+  {
+    "id": 47,
+    "category": "American Revolution",
+    "question": "Which battle in 1776 was a major defeat for George Washington's army, leading to the capture of New York City by the British?",
+    "answer": "Battle of Long Island"
+  },
+  {
+    "id": 48,
+    "category": "American Revolution",
+    "question": "Which act, passed in 1773, granted the British East India Company a monopoly on tea sales in the American colonies?",
+    "answer": "Tea Act"
+  },
+  {
+    "id": 49,
+    "category": "American Revolution",
+    "question": "Who was the American naval commander famous for declaring, 'I have not yet begun to fight!' during a naval battle?",
+    "answer": "John Paul Jones"
+  }
+]
