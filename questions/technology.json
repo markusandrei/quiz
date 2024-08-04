@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Technology",
+    "question": "Who is known as the father of computers?",
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 1,
+    "category": "Technology",
+    "question": "What does HTML stand for?",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "category": "Technology",
+    "question": "What year was the first iPhone released?",
+    "answer": "2007"
+  },
+  {
+    "id": 3,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 4,
+    "category": "Technology",
+    "question": "Who founded Microsoft?",
+    "answer": "Bill Gates and Paul Allen"
+  },
+  {
+    "id": 5,
+    "category": "Technology",
+    "question": "What is the most popular programming language as of 2023?",
+    "answer": "JavaScript"
+  },
+  {
+    "id": 6,
+    "category": "Technology",
+    "question": "What does VPN stand for?",
+    "answer": "Virtual Private Network"
+  },
+  {
+    "id": 7,
+    "category": "Technology",
+    "question": "What is the main function of RAM in a computer?",
+    "answer": "To store temporary data for quick access"
+  },
+  {
+    "id": 8,
+    "category": "Technology",
+    "question": "What company developed the Android operating system?",
+    "answer": "Google"
+  },
+  {
+    "id": 9,
+    "category": "Technology",
+    "question": "What is the term for a malicious software that demands ransom?",
+    "answer": "Ransomware"
+  },
+  {
+    "id": 10,
+    "category": "Technology",
+    "question": "What does USB stand for?",
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "id": 11,
+    "category": "Technology",
+    "question": "Who is the founder of Amazon?",
+    "answer": "Jeff Bezos"
+  },
+  {
+    "id": 12,
+    "category": "Technology",
+    "question": "What does AI stand for in technology?",
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "id": 13,
+    "category": "Technology",
+    "question": "What year was Google founded?",
+    "answer": "1998"
+  },
+  {
+    "id": 14,
+    "category": "Technology",
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 15,
+    "category": "Technology",
+    "question": "What is the name of Apple's virtual assistant?",
+    "answer": "Siri"
+  },
+  {
+    "id": 16,
+    "category": "Technology",
+    "question": "What programming language is primarily used for developing Android apps?",
+    "answer": "Java"
+  },
+  {
+    "id": 17,
+    "category": "Technology",
+    "question": "Who is known as the father of the internet?",
+    "answer": "Vint Cerf"
+  },
+  {
+    "id": 18,
+    "category": "Technology",
+    "question": "What is the name of the first computer virus?",
+    "answer": "Creeper"
+  },
+  {
+    "id": 19,
+    "category": "Technology",
+    "question": "What does PDF stand for?",
+    "answer": "Portable Document Format"
+  },
+  {
+    "id": 20,
+    "category": "Technology",
+    "question": "What company is known for its Windows operating system?",
+    "answer": "Microsoft"
+  },
+  {
+    "id": 21,
+    "category": "Technology",
+    "question": "What does GPU stand for?",
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "id": 22,
+    "category": "Technology",
+    "question": "Who developed the World Wide Web?",
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 23,
+    "category": "Technology",
+    "question": "What does IoT stand for?",
+    "answer": "Internet of Things"
+  },
+  {
+    "id": 24,
+    "category": "Technology",
+    "question": "What is the most widely used social media platform as of 2023?",
+    "answer": "Facebook"
+  },
+  {
+    "id": 25,
+    "category": "Technology",
+    "question": "What does BIOS stand for?",
+    "answer": "Basic Input/Output System"
+  },
+  {
+    "id": 26,
+    "category": "Technology",
+    "question": "What year was the first email sent?",
+    "answer": "1971"
+  },
+  {
+    "id": 27,
+    "category": "Technology",
+    "question": "What does CSS stand for in web development?",
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 28,
+    "category": "Technology",
+    "question": "What is the main component of a computer that executes instructions?",
+    "answer": "CPU"
+  },
+  {
+    "id": 29,
+    "category": "Technology",
+    "question": "What company is known for its iPhone and Mac products?",
+    "answer": "Apple"
+  },
+  {
+    "id": 30,
+    "category": "Technology",
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "answer": "Sputnik"
+  },
+  {
+    "id": 31,
+    "category": "Technology",
+    "question": "What does API stand for?",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 32,
+    "category": "Technology",
+    "question": "Who is the CEO of Tesla as of 2023?",
+    "answer": "Elon Musk"
+  },
+  {
+    "id": 33,
+    "category": "Technology",
+    "question": "What does DNS stand for?",
+    "answer": "Domain Name System"
+  },
+  {
+    "id": 34,
+    "category": "Technology",
+    "question": "What year was the World Wide Web invented?",
+    "answer": "1989"
+  },
+  {
+    "id": 35,
+    "category": "Technology",
+    "question": "What is the name of Google's parent company?",
+    "answer": "Alphabet Inc."
+  },
+  {
+    "id": 36,
+    "category": "Technology",
+    "question": "What does LAN stand for?",
+    "answer": "Local Area Network"
+  },
+  {
+    "id": 37,
+    "category": "Technology",
+    "question": "What does SQL stand for in databases?",
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 38,
+    "category": "Technology",
+    "question": "What year was the first commercial video game released?",
+    "answer": "1972"
+  },
+  {
+    "id": 39,
+    "category": "Technology",
+    "question": "What does URL stand for?",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "id": 40,
+    "category": "Technology",
+    "question": "Who is the founder of Facebook?",
+    "answer": "Mark Zuckerberg"
+  },
+  {
+    "id": 41,
+    "category": "Technology",
+    "question": "What does SSD stand for?",
+    "answer": "Solid State Drive"
+  },
+  {
+    "id": 42,
+    "category": "Technology",
+    "question": "What is the primary function of an operating system?",
+    "answer": "To manage computer hardware and software resources"
+  },
+  {
+    "id": 43,
+    "category": "Technology",
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 44,
+    "category": "Technology",
+    "question": "What does the 'G' in 5G stand for?",
+    "answer": "Generation"
+  },
+  {
+    "id": 45,
+    "category": "Technology",
+    "question": "Who developed the Linux operating system?",
+    "answer": "Linus Torvalds"
+  },
+  {
+    "id": 46,
+    "category": "Technology",
+    "question": "What is the main purpose of a firewall?",
+    "answer": "To protect a network by controlling incoming and outgoing traffic"
+  },
+  {
+    "id": 47,
+    "category": "Technology",
+    "question": "What does RFID stand for?",
+    "answer": "Radio Frequency Identification"
+  },
+  {
+    "id": 48,
+    "category": "Technology",
+    "question": "What is the name of the first smartphone?",
+    "answer": "IBM Simon"
+  },
+  {
+    "id": 49,
+    "category": "Technology",
+    "question": "What does SEO stand for?",
+    "answer": "Search Engine Optimization"
+  }
+]
