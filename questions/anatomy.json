@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Anatomy",
+    "question": "What is the largest organ in the human body?",
+    "answer": "Skin"
+  },
+  {
+    "id": 1,
+    "category": "Anatomy",
+    "question": "Which bone is known as the thigh bone?",
+    "answer": "Femur"
+  },
+  {
+    "id": 2,
+    "category": "Anatomy",
+    "question": "What is the name of the muscle that separates the chest cavity from the abdominal cavity?",
+    "answer": "Diaphragm"
+  },
+  {
+    "id": 3,
+    "category": "Anatomy",
+    "question": "Which part of the brain controls balance and coordination?",
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 4,
+    "category": "Anatomy",
+    "question": "What is the name of the tube that carries urine from the kidneys to the bladder?",
+    "answer": "Ureter"
+  },
+  {
+    "id": 5,
+    "category": "Anatomy",
+    "question": "Which organ is responsible for producing insulin?",
+    "answer": "Pancreas"
+  },
+  {
+    "id": 6,
+    "category": "Anatomy",
+    "question": "What is the name of the blood vessels that carry blood away from the heart?",
+    "answer": "Arteries"
+  },
+  {
+    "id": 7,
+    "category": "Anatomy",
+    "question": "Which structure in the eye is responsible for focusing light onto the retina?",
+    "answer": "Lens"
+  },
+  {
+    "id": 8,
+    "category": "Anatomy",
+    "question": "What is the term for the upper part of the arm or forelimb in humans?",
+    "answer": "Brachium"
+  },
+  {
+    "id": 9,
+    "category": "Anatomy",
+    "question": "What type of joint is found in the shoulder and hip, allowing for a wide range of movement?",
+    "answer": "Ball-and-socket joint"
+  },
+  {
+    "id": 10,
+    "category": "Anatomy",
+    "question": "Which part of the respiratory system is commonly referred to as the windpipe?",
+    "answer": "Trachea"
+  },
+  {
+    "id": 11,
+    "category": "Anatomy",
+    "question": "What is the primary function of red blood cells?",
+    "answer": "To transport oxygen"
+  },
+  {
+    "id": 12,
+    "category": "Anatomy",
+    "question": "Which muscle is responsible for the movement of the lower jaw during chewing?",
+    "answer": "Masseter"
+  },
+  {
+    "id": 13,
+    "category": "Anatomy",
+    "question": "What is the name of the protective covering of the brain and spinal cord?",
+    "answer": "Meninges"
+  },
+  {
+    "id": 14,
+    "category": "Anatomy",
+    "question": "Which organ is involved in both digestion and absorption of nutrients?",
+    "answer": "Small intestine"
+  },
+  {
+    "id": 15,
+    "category": "Anatomy",
+    "question": "What structure in the ear is responsible for detecting sound waves?",
+    "answer": "Cochlea"
+  },
+  {
+    "id": 16,
+    "category": "Anatomy",
+    "question": "What is the term for the upper chamber of the heart that receives blood from the veins?",
+    "answer": "Atrium"
+  },
+  {
+    "id": 17,
+    "category": "Anatomy",
+    "question": "Which gland produces hormones that regulate metabolism and growth?",
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": 18,
+    "category": "Anatomy",
+    "question": "What is the name of the bone that forms the forehead?",
+    "answer": "Frontal bone"
+  },
+  {
+    "id": 19,
+    "category": "Anatomy",
+    "question": "Which part of the nervous system controls voluntary movements?",
+    "answer": "Somatic nervous system"
+  },
+  {
+    "id": 20,
+    "category": "Anatomy",
+    "question": "What is the name of the thick, fibrous tissue that connects muscles to bones?",
+    "answer": "Tendon"
+  },
+  {
+    "id": 21,
+    "category": "Anatomy",
+    "question": "What is the name of the transparent layer that covers the front of the eye?",
+    "answer": "Cornea"
+  },
+  {
+    "id": 22,
+    "category": "Anatomy",
+    "question": "What is the name of the tissue that connects bones to other bones?",
+    "answer": "Ligament"
+  },
+  {
+    "id": 23,
+    "category": "Anatomy",
+    "question": "Which part of the brain is responsible for higher cognitive functions such as thinking and planning?",
+    "answer": "Cerebrum"
+  },
+  {
+    "id": 24,
+    "category": "Anatomy",
+    "question": "What is the term for the cellular process of cell division that produces two identical daughter cells?",
+    "answer": "Mitosis"
+  },
+  {
+    "id": 25,
+    "category": "Anatomy",
+    "question": "What is the name of the large muscle that covers the upper part of the chest and helps with breathing?",
+    "answer": "Pectoralis major"
+  },
+  {
+    "id": 26,
+    "category": "Anatomy",
+    "question": "Which organ is responsible for detoxifying harmful substances in the body?",
+    "answer": "Liver"
+  },
+  {
+    "id": 27,
+    "category": "Anatomy",
+    "question": "What is the name of the fluid that cushions and protects the joints?",
+    "answer": "Synovial fluid"
+  },
+  {
+    "id": 28,
+    "category": "Anatomy",
+    "question": "Which part of the body contains the vocal cords?",
+    "answer": "Larynx"
+  },
+  {
+    "id": 29,
+    "category": "Anatomy",
+    "question": "What is the name of the upper part of the digestive system where food is chewed and mixed with saliva?",
+    "answer": "Mouth"
+  },
+  {
+    "id": 30,
+    "category": "Anatomy",
+    "question": "Which structure in the eye is responsible for detecting color?",
+    "answer": "Cones"
+  },
+  {
+    "id": 31,
+    "category": "Anatomy",
+    "question": "What is the name of the sac-like structure that stores bile produced by the liver?",
+    "answer": "Gallbladder"
+  },
+  {
+    "id": 32,
+    "category": "Anatomy",
+    "question": "What is the term for the chemical signals that coordinate body functions?",
+    "answer": "Hormones"
+  },
+  {
+    "id": 33,
+    "category": "Anatomy",
+    "question": "What is the name of the blood vessel that carries oxygen-rich blood from the lungs to the heart?",
+    "answer": "Pulmonary vein"
+  },
+  {
+    "id": 34,
+    "category": "Anatomy",
+    "question": "What is the name of the bone that forms the base of the skull and supports the brain?",
+    "answer": "Occipital bone"
+  },
+  {
+    "id": 35,
+    "category": "Anatomy",
+    "question": "Which part of the ear is responsible for maintaining balance?",
+    "answer": "Vestibular system"
+  },
+  {
+    "id": 36,
+    "category": "Anatomy",
+    "question": "What is the name of the process by which white blood cells engulf and digest pathogens?",
+    "answer": "Phagocytosis"
+  },
+  {
+    "id": 37,
+    "category": "Anatomy",
+    "question": "Which organ is responsible for the production of hormones related to stress response?",
+    "answer": "Adrenal gland"
+  },
+  {
+    "id": 38,
+    "category": "Anatomy",
+    "question": "What is the name of the space between the two layers of the pleura surrounding the lungs?",
+    "answer": "Pleural cavity"
+  },
+  {
+    "id": 39,
+    "category": "Anatomy",
+    "question": "What is the name of the tissue that lines the inner surface of the heart chambers and valves?",
+    "answer": "Endocardium"
+  },
+  {
+    "id": 40,
+    "category": "Anatomy",
+    "question": "Which organ system is responsible for producing and releasing hormones into the bloodstream?",
+    "answer": "Endocrine system"
+  },
+  {
+    "id": 41,
+    "category": "Anatomy",
+    "question": "What is the name of the protective membrane that surrounds the lungs?",
+    "answer": "Pleura"
+  },
+  {
+    "id": 42,
+    "category": "Anatomy",
+    "question": "What is the name of the region of the brain involved in regulating emotions and memory?",
+    "answer": "Limbic system"
+  },
+  {
+    "id": 43,
+    "category": "Anatomy",
+    "question": "Which structure in the eye is responsible for detecting light intensity?",
+    "answer": "Rods"
+  },
+  {
+    "id": 44,
+    "category": "Anatomy",
+    "question": "What is the name of the fluid that surrounds and protects the brain and spinal cord?",
+    "answer": "Cerebrospinal fluid"
+  },
+  {
+    "id": 45,
+    "category": "Anatomy",
+    "question": "Which organ system is responsible for the exchange of gases in the body?",
+    "answer": "Respiratory system"
+  },
+  {
+    "id": 46,
+    "category": "Anatomy",
+    "question": "What is the name of the bone that forms the lower jaw?",
+    "answer": "Mandible"
+  },
+  {
+    "id": 47,
+    "category": "Anatomy",
+    "question": "What is the name of the cartilage that forms the tip of the nose?",
+    "answer": "Nasal cartilage"
+  },
+  {
+    "id": 48,
+    "category": "Anatomy",
+    "question": "Which organ system is responsible for removing waste products from the body?",
+    "answer": "Urinary system"
+  },
+  {
+    "id": 49,
+    "category": "Anatomy",
+    "question": "What is the term for the structure that connects the muscle to the bone?",
+    "answer": "Tendon"
+  }
+]
