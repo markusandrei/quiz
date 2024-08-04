@@ -5,7 +5,7 @@
   "Sports": "./questions/sports.json",
   "History": "./questions/history.json",
   "Mythology": "./questions/mythology.json",
-  "Automotive": "./questions/automoive.json",
+  "Automotive": "./questions/automotive.json",
   "Technology": "./questions/technology.json",
   "Food": "./questions/food.json",
   "Science": "./questions/science.json"
