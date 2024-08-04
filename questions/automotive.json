@@ -1,1 +1,303 @@
+[
+  {
+    "id": 0,
+    "category": "Automotive",
+    "question": "What does ABS stand for in automotive terms?",
+    "answer": "Anti-lock Braking System"
+  },
+  {
+    "id": 1,
+    "category": "Automotive",
+    "question": "What company manufactures the Mustang?",
+    "answer": "Ford"
+  },
+  {
+    "id": 2,
+    "category": "Automotive",
+    "question": "What is the name of the luxury vehicle division of Toyota?",
+    "answer": "Lexus"
+  },
+  {
+    "id": 3,
+    "category": "Automotive",
+    "question": "Which company produces the 911 model?",
+    "answer": "Porsche"
+  },
+  {
+    "id": 4,
+    "category": "Automotive",
+    "question": "What type of engine is commonly referred to as a 'boxer' engine?",
+    "answer": "Flat engine"
+  },
+  {
+    "id": 5,
+    "category": "Automotive",
+    "question": "What does SUV stand for?",
+    "answer": "Sport Utility Vehicle"
+  },
+  {
+    "id": 6,
+    "category": "Automotive",
+    "question": "What is the name of Tesla's first mass-market electric car?",
+    "answer": "Model 3"
+  },
+  {
+    "id": 7,
+    "category": "Automotive",
+    "question": "Which Italian company is known for its prancing horse logo?",
+    "answer": "Ferrari"
+  },
+  {
+    "id": 8,
+    "category": "Automotive",
+    "question": "What does MPG stand for in automotive terms?",
+    "answer": "Miles Per Gallon"
+  },
+  {
+    "id": 9,
+    "category": "Automotive",
+    "question": "Which German company is known for its three-pointed star logo?",
+    "answer": "Mercedes-Benz"
+  },
+  {
+    "id": 10,
+    "category": "Automotive",
+    "question": "What is the name of BMW's electric vehicle line?",
+    "answer": "i Series"
+  },
+  {
+    "id": 11,
+    "category": "Automotive",
+    "question": "What does RPM stand for?",
+    "answer": "Revolutions Per Minute"
+  },
+  {
+    "id": 12,
+    "category": "Automotive",
+    "question": "Which car company produces the Civic model?",
+    "answer": "Honda"
+  },
+  {
+    "id": 13,
+    "category": "Automotive",
+    "question": "What is the name of Audi's high-performance division?",
+    "answer": "Audi Sport GmbH"
+  },
+  {
+    "id": 14,
+    "category": "Automotive",
+    "question": "Which British company produces the Range Rover?",
+    "answer": "Land Rover"
+  },
+  {
+    "id": 15,
+    "category": "Automotive",
+    "question": "What does EV stand for?",
+    "answer": "Electric Vehicle"
+  },
+  {
+    "id": 16,
+    "category": "Automotive",
+    "question": "Which company produces the Camaro model?",
+    "answer": "Chevrolet"
+  },
+  {
+    "id": 17,
+    "category": "Automotive",
+    "question": "What is the name of Ford's luxury vehicle division?",
+    "answer": "Lincoln"
+  },
+  {
+    "id": 18,
+    "category": "Automotive",
+    "question": "What does AWD stand for?",
+    "answer": "All-Wheel Drive"
+  },
+  {
+    "id": 19,
+    "category": "Automotive",
+    "question": "Which company produces the Supra model?",
+    "answer": "Toyota"
+  },
+  {
+    "id": 20,
+    "category": "Automotive",
+    "question": "What does HP stand for in automotive terms?",
+    "answer": "Horsepower"
+  },
+  {
+    "id": 21,
+    "category": "Automotive",
+    "question": "Which German company produces the A4 model?",
+    "answer": "Audi"
+  },
+  {
+    "id": 22,
+    "category": "Automotive",
+    "question": "What is the name of the high-performance division of Mercedes-Benz?",
+    "answer": "AMG"
+  },
+  {
+    "id": 23,
+    "category": "Automotive",
+    "question": "What does FWD stand for?",
+    "answer": "Front-Wheel Drive"
+  },
+  {
+    "id": 24,
+    "category": "Automotive",
+    "question": "Which company produces the Impreza model?",
+    "answer": "Subaru"
+  },
+  {
+    "id": 25,
+    "category": "Automotive",
+    "question": "What does OEM stand for?",
+    "answer": "Original Equipment Manufacturer"
+  },
+  {
+    "id": 26,
+    "category": "Automotive",
+    "question": "Which company produces the Mustang model?",
+    "answer": "Ford"
+  },
+  {
+    "id": 27,
+    "category": "Automotive",
+    "question": "What is the name of Nissan's high-performance division?",
+    "answer": "NISMO"
+  },
+  {
+    "id": 28,
+    "category": "Automotive",
+    "question": "What does RPM stand for?",
+    "answer": "Revolutions Per Minute"
+  },
+  {
+    "id": 29,
+    "category": "Automotive",
+    "question": "Which company produces the F-150 model?",
+    "answer": "Ford"
+  },
+  {
+    "id": 30,
+    "category": "Automotive",
+    "question": "What does LED stand for in automotive lighting?",
+    "answer": "Light Emitting Diode"
+  },
+  {
+    "id": 31,
+    "category": "Automotive",
+    "question": "Which company produces the Model S electric car?",
+    "answer": "Tesla"
+  },
+  {
+    "id": 32,
+    "category": "Automotive",
+    "question": "What does RWD stand for?",
+    "answer": "Rear-Wheel Drive"
+  },
+  {
+    "id": 33,
+    "category": "Automotive",
+    "question": "Which Italian company produces the Aventador model?",
+    "answer": "Lamborghini"
+  },
+  {
+    "id": 34,
+    "category": "Automotive",
+    "question": "What does VIN stand for?",
+    "answer": "Vehicle Identification Number"
+  },
+  {
+    "id": 35,
+    "category": "Automotive",
+    "question": "Which company produces the Wrangler model?",
+    "answer": "Jeep"
+  },
+  {
+    "id": 36,
+    "category": "Automotive",
+    "question": "What does ECU stand for in automotive terms?",
+    "answer": "Engine Control Unit"
+  },
+  {
+    "id": 37,
+    "category": "Automotive",
+    "question": "Which company produces the Qashqai model?",
+    "answer": "Nissan"
+  },
+  {
+    "id": 38,
+    "category": "Automotive",
+    "question": "What does CVT stand for?",
+    "answer": "Continuously Variable Transmission"
+  },
+  {
+    "id": 39,
+    "category": "Automotive",
+    "question": "Which company produces the Passat model?",
+    "answer": "Volkswagen"
+  },
+  {
+    "id": 40,
+    "category": "Automotive",
+    "question": "What does AWD stand for?",
+    "answer": "All-Wheel Drive"
+  },
+  {
+    "id": 41,
+    "category": "Automotive",
+    "question": "Which company produces the Outback model?",
+    "answer": "Subaru"
+  },
+  {
+    "id": 42,
+    "category": "Automotive",
+    "question": "What does RPM stand for?",
+    "answer": "Revolutions Per Minute"
+  },
+  {
+    "id": 43,
+    "category": "Automotive",
+    "question": "Which company produces the XC90 model?",
+    "answer": "Volvo"
+  },
+  {
+    "id": 44,
+    "category": "Automotive",
+    "question": "What does EV stand for?",
+    "answer": "Electric Vehicle"
+  },
+  {
+    "id": 45,
+    "category": "Automotive",
+    "question": "Which company produces the Challenger model?",
+    "answer": "Dodge"
+  },
+  {
+    "id": 46,
+    "category": "Automotive",
+    "question": "What does HP stand for in automotive terms?",
+    "answer": "Horsepower"
+  },
+  {
+    "id": 47,
+    "category": "Automotive",
+    "question": "Which company produces the Defender model?",
+    "answer": "Land Rover"
+  },
+  {
+    "id": 48,
+    "category": "Automotive",
+    "question": "What does ICE stand for in automotive terms?",
+    "answer": "Internal Combustion Engine"
+  },
+  {
+    "id": 49,
+    "category": "Automotive",
+    "question": "Which company produces the Cayenne model?",
+    "answer": "Porsche"
+  }
+]
 
