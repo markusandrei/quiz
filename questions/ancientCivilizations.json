@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "answer": "Egyptians"
+  },
+  {
+    "id": 1,
+    "category": "Ancient Civilizations",
+    "question": "Who was the first emperor of China?",
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": 2,
+    "category": "Ancient Civilizations",
+    "question": "What writing system did the ancient Sumerians invent?",
+    "answer": "Cuneiform"
+  },
+  {
+    "id": 3,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its use of hieroglyphics?",
+    "answer": "Egyptians"
+  },
+  {
+    "id": 4,
+    "category": "Ancient Civilizations",
+    "question": "Who was the ruler of the Akkadian Empire who created one of the first known empires?",
+    "answer": "Sargon of Akkad"
+  },
+  {
+    "id": 5,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its philosophers such as Socrates, Plato, and Aristotle?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 6,
+    "category": "Ancient Civilizations",
+    "question": "What was the capital city of the ancient Babylonian Empire?",
+    "answer": "Babylon"
+  },
+  {
+    "id": 7,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization built the Machu Picchu?",
+    "answer": "Incas"
+  },
+  {
+    "id": 8,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its extensive road system in South America?",
+    "answer": "Incas"
+  },
+  {
+    "id": 9,
+    "category": "Ancient Civilizations",
+    "question": "Who was the famous queen of the ancient Egyptian civilization known for her relationship with Julius Caesar?",
+    "answer": "Cleopatra"
+  },
+  {
+    "id": 10,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is credited with developing the first democracy?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 11,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary language spoken in the ancient Roman Empire?",
+    "answer": "Latin"
+  },
+  {
+    "id": 12,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its mythological gods such as Zeus and Hera?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 13,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary architectural style used by the ancient Greeks?",
+    "answer": "Doric, Ionic, and Corinthian"
+  },
+  {
+    "id": 14,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its law code, one of the earliest written legal codes?",
+    "answer": "Babylonians"
+  },
+  {
+    "id": 15,
+    "category": "Ancient Civilizations",
+    "question": "What was the main purpose of the Great Wall of China?",
+    "answer": "To protect against invasions"
+  },
+  {
+    "id": 16,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for creating the concept of zero in mathematics?",
+    "answer": "Mayans"
+  },
+  {
+    "id": 17,
+    "category": "Ancient Civilizations",
+    "question": "Who was the ancient Greek god of the sea?",
+    "answer": "Poseidon"
+  },
+  {
+    "id": 18,
+    "category": "Ancient Civilizations",
+    "question": "What was the ancient city of Troy known for?",
+    "answer": "The Trojan War"
+  },
+  {
+    "id": 19,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its pyramids and mummies?",
+    "answer": "Egyptians"
+  },
+  {
+    "id": 20,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary purpose of the Colosseum in ancient Rome?",
+    "answer": "Gladiatorial contests and public spectacles"
+  },
+  {
+    "id": 21,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for the Epic of Gilgamesh?",
+    "answer": "Sumerians"
+  },
+  {
+    "id": 22,
+    "category": "Ancient Civilizations",
+    "question": "Who was the main god of the ancient Egyptian religion?",
+    "answer": "Ra"
+  },
+  {
+    "id": 23,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its mythological figures such as Achilles and Odysseus?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 24,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for the construction of aqueducts?",
+    "answer": "Romans"
+  },
+  {
+    "id": 25,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization created the Parthenon?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 26,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary purpose of the pyramids in ancient Egypt?",
+    "answer": "Tombs for pharaohs"
+  },
+  {
+    "id": 27,
+    "category": "Ancient Civilizations",
+    "question": "Who was the famous Carthaginian general known for crossing the Alps with elephants?",
+    "answer": "Hannibal"
+  },
+  {
+    "id": 28,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its Oracle at Delphi?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 29,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization created the Code of Hammurabi?",
+    "answer": "Babylonians"
+  },
+  {
+    "id": 30,
+    "category": "Ancient Civilizations",
+    "question": "Who was the first emperor of the Roman Empire?",
+    "answer": "Augustus"
+  },
+  {
+    "id": 31,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary material used for writing in ancient Egypt?",
+    "answer": "Papyrus"
+  },
+  {
+    "id": 32,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its development of democracy?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 33,
+    "category": "Ancient Civilizations",
+    "question": "What was the name of the central marketplace in ancient Greek city-states?",
+    "answer": "Agora"
+  },
+  {
+    "id": 34,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization built the city of Petra?",
+    "answer": "Nabataeans"
+  },
+  {
+    "id": 35,
+    "category": "Ancient Civilizations",
+    "question": "What was the main architectural style of ancient Mesopotamian ziggurats?",
+    "answer": "Terraced step pyramids"
+  },
+  {
+    "id": 36,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization created the Hanging Gardens of Babylon?",
+    "answer": "Babylonians"
+  },
+  {
+    "id": 37,
+    "category": "Ancient Civilizations",
+    "question": "Who was the main goddess of wisdom and warfare in ancient Greece?",
+    "answer": "Athena"
+  },
+  {
+    "id": 38,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary purpose of the Pantheon in ancient Rome?",
+    "answer": "A temple to all the gods"
+  },
+  {
+    "id": 39,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for the Rosetta Stone?",
+    "answer": "Egyptians"
+  },
+  {
+    "id": 40,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization was centered in the city of Tenochtitlan?",
+    "answer": "Aztecs"
+  },
+  {
+    "id": 41,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary writing material used in ancient Mesopotamia?",
+    "answer": "Clay tablets"
+  },
+  {
+    "id": 42,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization built the Acropolis?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 43,
+    "category": "Ancient Civilizations",
+    "question": "Who was the chief god of the ancient Greek pantheon?",
+    "answer": "Zeus"
+  },
+  {
+    "id": 44,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its extensive use of bronze in weapons and tools?",
+    "answer": "Chinese"
+  },
+  {
+    "id": 45,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary purpose of the Forum in ancient Rome?",
+    "answer": "Public meetings and legal matters"
+  },
+  {
+    "id": 46,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its epic poem, the Iliad?",
+    "answer": "Greeks"
+  },
+  {
+    "id": 47,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its use of pyramids in Mesoamerica?",
+    "answer": "Mayans"
+  },
+  {
+    "id": 48,
+    "category": "Ancient Civilizations",
+    "question": "What was the primary purpose of the Oracle at Delphi?",
+    "answer": "To provide prophetic predictions"
+  },
+  {
+    "id": 49,
+    "category": "Ancient Civilizations",
+    "question": "Which ancient civilization is known for its creation of the first alphabet?",
+    "answer": "Phoenicians"
+  }
+]
