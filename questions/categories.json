@@ -8,5 +8,8 @@
   "Automotive": "./questions/automotive.json",
   "Technology": "./questions/technology.json",
   "Food": "./questions/food.json",
+  "Ancient Civilizations": "./questions/ancientCivilizations.json",
+  "World War II": "./questions/worldWarII.json",
+  "American Revolution": "./questions/americanRevolution.json",
   "Science": "./questions/science.json"
 }
