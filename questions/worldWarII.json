@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "category": "World War II",
+    "question": "What event marked the beginning of World War II?",
+    "answer": "Invasion of Poland"
+  },
+  {
+    "id": 1,
+    "category": "World War II",
+    "question": "Which two cities were atomic bombs dropped on in Japan?",
+    "answer": "Hiroshima and Nagasaki"
+  },
+  {
+    "id": 2,
+    "category": "World War II",
+    "question": "Who was the Prime Minister of the United Kingdom during most of World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 3,
+    "category": "World War II",
+    "question": "What was the codename for the Allied invasion of Normandy?",
+    "answer": "Operation Overlord"
+  },
+  {
+    "id": 4,
+    "category": "World War II",
+    "question": "Which battle is considered the turning point in the Pacific Theater?",
+    "answer": "Battle of Midway"
+  },
+  {
+    "id": 5,
+    "category": "World War II",
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "answer": "Adolf Hitler"
+  },
+  {
+    "id": 6,
+    "category": "World War II",
+    "question": "Which agreement was signed in 1939 that led to the partition of Poland?",
+    "answer": "Molotov-Ribbentrop Pact"
+  },
+  {
+    "id": 7,
+    "category": "World War II",
+    "question": "What was the primary purpose of the Manhattan Project?",
+    "answer": "To develop atomic bombs"
+  },
+  {
+    "id": 8,
+    "category": "World War II",
+    "question": "Which battle is considered the largest tank battle in history?",
+    "answer": "Battle of Kursk"
+  },
+  {
+    "id": 9,
+    "category": "World War II",
+    "question": "Which conference was held in 1945 to discuss the post-war reorganization of Europe?",
+    "answer": "Yalta Conference"
+  },
+  {
+    "id": 10,
+    "category": "World War II",
+    "question": "Who was the Supreme Commander of the Allied Expeditionary Force in Europe?",
+    "answer": "Dwight D. Eisenhower"
+  },
+  {
+    "id": 11,
+    "category": "World War II",
+    "question": "What was the largest concentration camp operated by Nazi Germany?",
+    "answer": "Auschwitz"
+  },
+  {
+    "id": 12,
+    "category": "World War II",
+    "question": "What was the main objective of the D-Day invasion?",
+    "answer": "To liberate Western Europe from Nazi occupation"
+  },
+  {
+    "id": 13,
+    "category": "World War II",
+    "question": "Which operation marked the German invasion of the Soviet Union in 1941?",
+    "answer": "Operation Barbarossa"
+  },
+  {
+    "id": 14,
+    "category": "World War II",
+    "question": "Which battle is considered the turning point in the Eastern Front?",
+    "answer": "Battle of Stalingrad"
+  },
+  {
+    "id": 15,
+    "category": "World War II",
+    "question": "Who was the President of the United States at the beginning of World War II?",
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 16,
+    "category": "World War II",
+    "question": "Which country was invaded by Italy in 1935, leading to its annexation?",
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 17,
+    "category": "World War II",
+    "question": "What was the name of the British evacuation operation from Dunkirk in 1940?",
+    "answer": "Operation Dynamo"
+  },
+  {
+    "id": 18,
+    "category": "World War II",
+    "question": "Which Japanese city was firebombed in March 1945, resulting in massive civilian casualties?",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 19,
+    "category": "World War II",
+    "question": "Who was the British commander in the North African campaign?",
+    "answer": "Bernard Montgomery"
+  },
+  {
+    "id": 20,
+    "category": "World War II",
+    "question": "Which battle marked the last major German offensive on the Western Front?",
+    "answer": "Battle of the Bulge"
+  },
+  {
+    "id": 21,
+    "category": "World War II",
+    "question": "What was the name of the U.S. strategy to capture key islands in the Pacific?",
+    "answer": "Island Hopping"
+  },
+  {
+    "id": 22,
+    "category": "World War II",
+    "question": "What was the main goal of the Lend-Lease Act passed by the U.S. in 1941?",
+    "answer": "To provide military aid to Allied nations"
+  },
+  {
+    "id": 23,
+    "category": "World War II",
+    "question": "Which two countries signed the Anti-Comintern Pact in 1936?",
+    "answer": "Germany and Japan"
+  },
+  {
+    "id": 24,
+    "category": "World War II",
+    "question": "What was the codename for the Allied invasion of Italy in 1943?",
+    "answer": "Operation Husky"
+  },
+  {
+    "id": 25,
+    "category": "World War II",
+    "question": "Which battle in the Pacific is known for the iconic photograph of Marines raising the flag on Mount Suribachi?",
+    "answer": "Battle of Iwo Jima"
+  },
+  {
+    "id": 26,
+    "category": "World War II",
+    "question": "What was the name of the first artificial satellite launched by the Soviet Union in 1957?",
+    "answer": "Sputnik"
+  },
+  {
+    "id": 27,
+    "category": "World War II",
+    "question": "Who was the German field marshal known for his role in the North African campaign?",
+    "answer": "Erwin Rommel"
+  },
+  {
+    "id": 28,
+    "category": "World War II",
+    "question": "Which battle in 1942 marked the first major defeat of the Japanese navy?",
+    "answer": "Battle of Midway"
+  },
+  {
+    "id": 29,
+    "category": "World War II",
+    "question": "Which agreement in 1945 divided Germany into four occupation zones?",
+    "answer": "Potsdam Agreement"
+  },
+  {
+    "id": 30,
+    "category": "World War II",
+    "question": "What was the name of the German air force during World War II?",
+    "answer": "Luftwaffe"
+  },
+  {
+    "id": 31,
+    "category": "World War II",
+    "question": "Which country was led by Joseph Stalin during World War II?",
+    "answer": "Soviet Union"
+  },
+  {
+    "id": 32,
+    "category": "World War II",
+    "question": "What was the primary purpose of the Nuremberg Trials held after World War II?",
+    "answer": "To prosecute Nazi war criminals"
+  },
+  {
+    "id": 33,
+    "category": "World War II",
+    "question": "Which island battle in 1945 was one of the bloodiest in the Pacific Theater?",
+    "answer": "Battle of Okinawa"
+  },
+  {
+    "id": 34,
+    "category": "World War II",
+    "question": "What was the primary purpose of the Enigma machine used by the Germans?",
+    "answer": "To encrypt military communications"
+  },
+  {
+    "id": 35,
+    "category": "World War II",
+    "question": "Which leader of the Free French Forces later became President of France?",
+    "answer": "Charles de Gaulle"
+  },
+  {
+    "id": 36,
+    "category": "World War II",
+    "question": "Which conference in 1943 involved the Allied leaders discussing the post-war world?",
+    "answer": "Tehran Conference"
+  },
+  {
+    "id": 37,
+    "category": "World War II",
+    "question": "Which German battleship was sunk by the British navy in 1941?",
+    "answer": "Bismarck"
+  },
+  {
+    "id": 38,
+    "category": "World War II",
+    "question": "Who was the British Prime Minister who signed the Munich Agreement in 1938?",
+    "answer": "Neville Chamberlain"
+  },
+  {
+    "id": 39,
+    "category": "World War II",
+    "question": "Which Allied invasion in 1944 is known as D-Day?",
+    "answer": "Invasion of Normandy"
+  },
+  {
+    "id": 40,
+    "category": "World War II",
+    "question": "What was the primary purpose of the Blitzkrieg tactic used by Germany?",
+    "answer": "To achieve quick victories through rapid, coordinated attacks"
+  },
+  {
+    "id": 41,
+    "category": "World War II",
+    "question": "Which U.S. general was known for his leadership in the Pacific Theater?",
+    "answer": "Douglas MacArthur"
+  },
+  {
+    "id": 42,
+    "category": "World War II",
+    "question": "Which Soviet city endured a prolonged siege by German forces from 1941 to 1944?",
+    "answer": "Leningrad"
+  },
+  {
+    "id": 43,
+    "category": "World War II",
+    "question": "What was the primary purpose of the Vichy government in France during World War II?",
+    "answer": "To collaborate with Nazi Germany"
+  },
+  {
+    "id": 44,
+    "category": "World War II",
+    "question": "Which major battle in 1942 halted the Axis advance in North Africa?",
+    "answer": "Battle of El Alamein"
+  },
+  {
+    "id": 45,
+    "category": "World War II",
+    "question": "Which Allied leader famously declared, 'We shall fight on the beaches'?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 46,
+    "category": "World War II",
+    "question": "Which Japanese attack on December 7, 1941, led to the U.S. entering World War II?",
+    "answer": "Pearl Harbor"
+  },
+  {
+    "id": 47,
+    "category": "World War II",
+    "question": "Which battle in 1942 is considered a turning point in the North African campaign?",
+    "answer": "Second Battle of El Alamein"
+  },
+  {
+    "id": 48,
+    "category": "World War II",
+    "question": "What was the main goal of the Marshall Plan implemented after World War II?",
+    "answer": "To aid in the economic recovery of Europe"
+  },
+  {
+    "id": 49,
+    "category": "World War II",
+    "question": "Which treaty officially ended World War II?",
+    "answer": "Treaty of San Francisco"
+  }
+]
